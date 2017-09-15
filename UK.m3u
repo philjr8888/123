@@ -1,150 +1,95 @@
 #EXTM3U
-#EXTINF:-1,UK | BTSport1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1079.ts
-#EXTINF:-1,UK | BTSport2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1078.ts
-#EXTINF:-1,UK | BTSportEurope
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1085.ts
-#EXTINF:-1,UK | BTSportESPN
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1077.ts
-#EXTINF:-1,UK | Setanta
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1076.ts
-#EXTINF:-1,UK | PremierSport
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1074.ts
-#EXTINF:-1,UK | Discovery Science HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1127.ts
-#EXTINF:-1,UK | SkySportNewsUk
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1087.ts
-#EXTINF:-1,UK | SkysportNews
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1086.ts
-#EXTINF:-1,UK | SkysportF1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1088.ts
-#EXTINF:-1,UK | SkySport1 UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1093.ts
-#EXTINF:-1,UK | SkySport2 UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1092.ts
-#EXTINF:-1,UK | SkySport3 UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1091.ts
-#EXTINF:-1,UK | SkySport4  UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1090.ts
-#EXTINF:-1,UK | SkySport5 UK
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1089.ts
-#EXTINF:-1,UK | EUROSPORT1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1095.ts
-#EXTINF:-1,UK | EUROSPORT2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1094.ts
-#EXTINF:-1,UK | BBC1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1142.ts
-#EXTINF:-1,UK | BBC2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1141.ts
-#EXTINF:-1,UK | BBC3
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1140.ts
-#EXTINF:-1,UK | CBSAction
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1136.ts
-#EXTINF:-1,UK | CBSDrama
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1137.ts
-#EXTINF:-1,UK | CBSReality
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1138.ts
-#EXTINF:-1,UK | Channel4
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1135.ts
-#EXTINF:-1,UK | Channel5
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1134.ts
-#EXTINF:-1,UK | ComedyCentral
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1133.ts
-#EXTINF:-1,UK | Discovery Turbo HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1126.ts
-#EXTINF:-1,UK | DiscoveryChannelHD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1130.ts
-#EXTINF:-1,UK | DiscoveryShed
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1128.ts
-#EXTINF:-1,UK | DisneyChannel
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1131.ts
-#EXTINF:-1,UK | DisneyJunior
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1132.ts
-#EXTINF:-1,UK | Dmax.
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1100.ts
-#EXTINF:-1,UK | ITV1
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1146.ts
-#EXTINF:-1,UK | ITV2
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1145.ts
-#EXTINF:-1,UK | ITV3
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1144.ts
-#EXTINF:-1,UK | ITV4
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1143.ts
-#EXTINF:-1,UK | Movies 4Men
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1111.ts
-#EXTINF:-1,UK | NationalGeographic
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1124.ts
-#EXTINF:-1,UK | Racing
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1116.ts
-#EXTINF:-1,UK | RTE One
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1104.ts
-#EXTINF:-1,UK | Rte Two
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1103.ts
-#EXTINF:-1,UK | Sky Movies Action
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1108.ts
-#EXTINF:-1,UK | Sky Movies Comedy
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1109.ts
-#EXTINF:-1,UK | Sky Movies Family HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1107.ts
-#EXTINF:-1,UK | Sky Movies Premiere HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1105.ts
-#EXTINF:-1,UK | Sky Movies Scifi / Horror HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1106.ts
-#EXTINF:-1,UK | SkyMoviesDrama HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1121.ts
-#EXTINF:-1,UK | SkyMoviesSelect HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1122.ts
-#EXTINF:-1,UK | SkyMoviesThriller
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1123.ts
-#EXTINF:-1,UK | SkyMTV
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1110.ts
-#EXTINF:-1,UK | SkyOne HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1113.ts
-#EXTINF:-1,UK | True Movies1 HD
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1115.ts
-#EXTINF:-1,UK | Yesterday
-http://devcon.red:8080/live/propanel/XCt5vFYWlL/1102.ts
+#EXTINF:-1,CA : NBA TV_CA
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/161.ts
+#EXTINF:-1,CA : HBO_CA
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/162.ts
+#EXTINF:-1,CA : HBO 2_CA
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/163.ts
+#EXTINF:-1,CA : Sportsnet One HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/174.ts
+#EXTINF:-1,CA : sportsnet world hd
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/172.ts
+#EXTINF:-1,CA : Sportsnet West HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/173.ts
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/175.ts
+#EXTINF:-1,CA Sportnet Pacific HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/171.ts
+#EXTINF:-1,USA: WWE Network
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/151.ts
+#EXTINF:-1,USA: ESPN
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/152.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/153.ts
+#EXTINF:-1,USA: ESPN 3 TRE
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/154.ts
+#EXTINF:-1,USA: FOX SPORTS
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/156.ts
+#EXTINF:-1,USA: Tsn-Sport HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/164.ts
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/167.ts
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/168.ts
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/169.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/170.ts
+#EXTINF:-1,USA: AFN Sports
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/165.ts
+#EXTINF:-1,USA: HBO HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/160.ts
+#EXTINF:-1,USA: NAT GEO HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/159.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/155.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/158.ts
+#EXTINF:-1,USA: ANIMAL PLANET
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/157.ts
+#EXTINF:-1,UK:BT Sports 1 HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/142.ts
+#EXTINF:-1,UK:BT Sports 2 HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/143.ts
+#EXTINF:-1,UK: BT Sports 3 HD
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/144.ts
 #EXTINF:-1,UK:Sky Sports F1
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/75.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/75.ts
 #EXTINF:-1,UK:Sky Sports 1
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/76.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/76.ts
 #EXTINF:-1,UK:Sky Sports 2
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/77.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/77.ts
 #EXTINF:-1,UK:Sky Sports 3
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/78.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/78.ts
 #EXTINF:-1,UK:Sky Sports 4
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/79.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/79.ts
 #EXTINF:-1,UK:Sky Sports 5
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/80.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/80.ts
 #EXTINF:-1,UK: SkyShowcase
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/47.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/47.ts
 #EXTINF:-1,UK: Sky One HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/40.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/40.ts
 #EXTINF:-1,UK: SKY Two HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/41.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/41.ts
 #EXTINF:-1,UK: SkySelect
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/58.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/58.ts
 #EXTINF:-1,UK: Sky Movies Select
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/57.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/57.ts
 #EXTINF:-1,UK: SKY Movies Premier HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/43.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/43.ts
 #EXTINF:-1,UK: Sky Movies Action
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/48.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/48.ts
 #EXTINF:-1,UK: Sky Movies Action & Adventure HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/45.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/45.ts
 #EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/55.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/55.ts
 #EXTINF:-1,UK: Sky Movies Hits Showcase HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/46.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/46.ts
 #EXTINF:-1,UK: Sky Movies Family HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/49.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/49.ts
 #EXTINF:-1,UK: Sky Movies Drama & Romance
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/51.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/51.ts
 #EXTINF:-1,UK: Sky Movies Crime &Thriller HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/53.ts
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/53.ts
 #EXTINF:-1,UK: Sky Movies Comedy HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-13-9/HQC0xDjiXD/50.ts
-
-
-
+http://163.172.217.107:1944/live/Www.cafe-tv.co.uk16-9/SrEyIHNTiK/50.ts

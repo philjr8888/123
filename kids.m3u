@@ -1,56 +1,88 @@
-#EXTINF:-1,Baby TV
-http://iptv.myeasytv.xyz:8000/live/One/One/17689.ts
-#EXTINF:-1,Disney HD
-http://iptv.myeasytv.xyz:8000/live/One/One/17703.ts
-#EXTINF:-1,Cartoon Network
-http://iptv.myeasytv.xyz:8000/live/One/One/17690.ts
-#EXTINF:-1,CBBC
-http://iptv.myeasytv.xyz:8000/live/One/One/17688.ts
-#EXTINF:-1,Disney Chnl
-http://iptv.myeasytv.xyz:8000/live/One/One/17691.ts
-#EXTINF:-1,UK:Nick Jr
-http://iptv.myeasytv.xyz:8000/live/One/One/17699.ts
-#EXTINF:-1,Tiny Pop
-http://iptv.myeasytv.xyz:8000/live/One/One/17694.ts
-#EXTINF:-1,Disney Junior
-http://iptv.myeasytv.xyz:8000/live/One/One/17687.ts
-#EXTINF:-1,Disney XD
-http://iptv.myeasytv.xyz:8000/live/One/One/17686.ts
-#EXTINF:-1,Nick Jr
-http://iptv.myeasytv.xyz:8000/live/One/One/17685.ts
-#EXTINF:-1,Nickelodeon
-http://iptv.myeasytv.xyz:8000/live/One/One/17684.ts
-#EXTINF:-1,Nicktoons
-http://iptv.myeasytv.xyz:8000/live/One/One/17683.ts
-#EXTINF:-1,Sky Disney
-http://iptv.myeasytv.xyz:8000/live/One/One/15942.ts
-#EXTINF:-1,Sky Family hd
-http://iptv.myeasytv.xyz:8000/live/One/One/15941.ts
-#EXTINF:-1,Sky Premiere
-http://iptv.myeasytv.xyz:8000/live/One/One/15937.ts
-#EXTINF:-1,Sky Select
-http://iptv.myeasytv.xyz:8000/live/One/One/15936.ts
-#EXTINF:-1,Sky Action
-http://iptv.myeasytv.xyz:8000/live/One/One/15947.ts
-#EXTINF:-1,Sky Comedy
-http://iptv.myeasytv.xyz:8000/live/One/One/15944.ts
-#EXTINF:-1,Sky Movies Modern Greats
-http://iptv.myeasytv.xyz:8000/live/One/One/13766.ts
-#EXTINF:-1,Sky Movies Showcase
-http://iptv.myeasytv.xyz:8000/live/One/One/13764.ts
-#EXTINF:-1,Sky Action Local
-http://iptv.myeasytv.xyz:8000/live/One/One/13817.ts
-#EXTINF:-1,Sky Comedy Local
-http://iptv.myeasytv.xyz:8000/live/One/One/13841.ts
-#EXTINF:-1,Sky Premiere Local
-http://iptv.myeasytv.xyz:8000/live/One/One/13920.ts
-#EXTINF:-1,Sky Movies Family 
-http://iptv.myeasytv.xyz:8000/live/One/One/13642.ts
-#EXTINF:-1,Sky Movies Action local
-http://iptv.myeasytv.xyz:8000/live/One/One/13570.ts
-#EXTINF:-1,Sky Cinema Action HD
-http://iptv.myeasytv.xyz:8000/live/One/One/17256.ts
-#EXTINF:-1,Sky Cinema Premiere HD
-http://iptv.myeasytv.xyz:8000/live/One/One/17254.ts
-#EXTINF:-1,Sky Cinema Select HD
-http://iptv.myeasytv.xyz:8000/live/One/One/17252.ts
+#EXTINF:0,#EXTINF:-1,BBC HD 4 / CBEEBIES HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57312.ts
+#EXTINF:0,#EXTINF:-1,CBBC HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57257.ts
+#EXTINF:0,#EXTINF:-1,CARTOON NETWORK
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57249.ts
+#EXTINF:0,#EXTINF:-1,CARTOON NETWORK HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57256.ts
+#EXTINF:0,#EXTINF:-1,Cartoon_Network
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57141.ts
+#EXTINF:0,#EXTINF:-1,DISNEY CHANNEL HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57255.ts
+#EXTINF:0,#EXTINF:-1,DISNEY_CHANNEL
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57137.ts
+#EXTINF:0,#EXTINF:-1,DISNEY JUNIOR
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57250.ts
+#EXTINF:0,#EXTINF:-1,DISNEY XD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57251.ts
+#EXTINF:0,#EXTINF:-1,Disney_Junior
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57135.ts
+#EXTINF:0,#EXTINF:-1,Disney_XD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57136.ts
+#EXTINF:0,#EXTINF:-1,NICK HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57254.ts
+#EXTINF:0,#EXTINF:-1,Nick_Junior
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57138.ts
+#EXTINF:0,#EXTINF:-1,Nick Jr.
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57253.ts
+#EXTINF:0,#EXTINF:-1,NICK JR TOO
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57252.ts
+#EXTINF:0,#EXTINF:-1,Nickelodeon
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57139.ts
+#EXTINF:0,#EXTINF:-1,Nicktoons
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57140.ts
+#EXTINF:0,#EXTINF:-1,BABY TV
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57247.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES PREMIER HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47016.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES ACTION HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47011.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES COMEDY HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47010.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES DISNEY HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47013.ts
+#EXTINF:0,#EXTINF:-1,Sky Cinema Hero
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/63818.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES DRAMA&ROMANCE HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47007.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES FAMILY HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47012.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES GREATS HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47014.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES HITS HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47015.ts
+#EXTINF:0,#EXTINF:-1,SKY MOVIES SELECT HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47008.ts
+#EXTINF:0,#EXTINF:-1,Chelsea_FC
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57167.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS NEWS HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47035.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47030.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS CRICKET HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47029.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS ACTION HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47028.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47026.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS ARENA HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/58508.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/58507.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS F1 HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47025.ts
+#EXTINF:0,#EXTINF:-1,SKY SPORTS MIX HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57324.ts
+#EXTINF:0,#EXTINF:-1,BT SPORTS 1 HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47024.ts
+#EXTINF:0,#EXTINF:-1,BT SPORTS 2 HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47023.ts
+#EXTINF:0,#EXTINF:-1,BT SPORTS 3 HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47022.ts
+#EXTINF:0,#EXTINF:-1,BT ESPN HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/47031.ts
+#EXTINF:0,#EXTINF:-1,BT_Sport_Extra
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57171.ts
+#EXTINF:0,#EXTINF:-1,PREMIER SPORTS HD
+http://midnightiptvstreams.ddns.net:5050/live/clark/clark/57319.ts

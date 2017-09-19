@@ -1,84 +1,56 @@
-#EXTINF:-1,Cartoon Network US
-http://sekoiptv.ddns.net:8080/live/ism/ism/523.ts
 #EXTINF:-1,Baby TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1852.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1852.ts
 #EXTINF:-1,CBBC HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1993.ts
-#EXTINF:-1,CBBC UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1991.ts
-#EXTINF:-1,CBeebies HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1741.ts
-#EXTINF:-1,CITV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1740.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1993.ts
 #EXTINF:-1,Cartoon Network UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1857.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1857.ts
 #EXTINF:-1,Cartoonito UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1865.ts
-#EXTINF:-1,Disney Channel +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1843.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1865.ts
 #EXTINF:-1,Disney Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1844.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1844.ts
 #EXTINF:-1,Disney Junior +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1762.ts
-#EXTINF:-1,Disney Junior UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1845.ts
-#EXTINF:-1,Disney XD +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1847.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1762.ts
 #EXTINF:-1,Disney XD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1846.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1846.ts
 #EXTINF:-1,Nick Jr. +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1849.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1849.ts
 #EXTINF:-1,Nick Jr. Peppa UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1753.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1753.ts
 #EXTINF:-1,Nick Jr. Too UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1848.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1848.ts
 #EXTINF:-1,Nick Jr. UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1850.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1850.ts
 #EXTINF:-1,NickToons UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1864.ts
-#EXTINF:-1,Nickelodeon +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1858.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1864.ts
 #EXTINF:-1,Nickelodeon UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1859.ts
-#EXTINF:-1,POP +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1751.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1859.ts
 #EXTINF:-1,POP UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1752.ts
-#EXTINF:-1,Tiny Pop +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1860.ts
-#EXTINF:-1,Tiny Pop UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1861.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1752.ts
+#EXTINF:-1,Sky Box Office UK
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1806.ts
 #EXTINF:-1,Sky Cinema Action & Adventure HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/351.ts
-#EXTINF:-1,Sky Cinema Action & Adventure UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/352.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/351.ts
 #EXTINF:-1,Sky Cinema Box Office 1 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5726.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5726.ts
 #EXTINF:-1,Sky Cinema Box Office 2 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5725.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5725.ts
 #EXTINF:-1,Sky Cinema Box Office 3D FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5724.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5724.ts
 #EXTINF:-1,Sky Cinema Box Office 4 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5723.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5723.ts
 #EXTINF:-1,Sky Cinema Comedy HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/349.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/349.ts
 #EXTINF:-1,Sky Cinema Disney HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/346.ts
-#EXTINF:-1,Sky Cinema Drama & Romance UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/345.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/346.ts
 #EXTINF:-1,Sky Cinema Family HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/343.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/343.ts
 #EXTINF:-1,Sky Cinema Greats UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/342.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/342.ts
 #EXTINF:-1,Sky Cinema Oscars UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1823.ts
-#EXTINF:-1,Sky Cinema Premiere +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1824.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1823.ts
 #EXTINF:-1,Sky Cinema Premiere UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/341.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/341.ts
 #EXTINF:-1,Sky Cinema Select UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/339.ts
-#EXTINF:-1,Universal Channel +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1897.ts
-#EXTINF:-1,Universal Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1898.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/339.ts
+#EXTINF:-1,Tiny Pop UK
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1861.ts

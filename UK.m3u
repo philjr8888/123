@@ -1,644 +1,662 @@
 
-#EXTINF:-1,##########   United Kingdom   ##########
-http://sekoiptv.ddns.net:8080/live/ism/ism/2524.ts
+#EXTINF:-1,Sky Sports Cricket
+http://92.238.14.239:9988/play/a00n
+#EXTINF:-1,Sky Sports Football
+http://92.238.14.239:9988/play/a00r
+#EXTINF:-1,Sky Sports Main Event
+http://92.238.14.239:9988/play/a00m
+#EXTINF:-1,Sky Sports PL
+http://92.238.14.239:9988/play/a00p
+#EXTINF:-1,Sky Sports Golf
+http://92.238.14.239:9988/play/a00o
+#EXTINF:-1,Sky Sports Mix
+http://92.238.14.239:9988/play/a00e
+#EXTINF:-1,Sky Sports Arena
+http://92.238.14.239:9988/play/a00t
+#EXTINF:-1,Sky Sports Action
+http://92.238.14.239:9988/play/a00l
+#EXTINF:-1,Sky Sports F1
+http://92.238.14.239:9988/play/a005
 #EXTINF:-1,3e UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1790.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1790.ts
 #EXTINF:-1,4Music UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1936.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1936.ts
 #EXTINF:-1,4Seven UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1937.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1937.ts
 #EXTINF:-1,5Star UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1963.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1963.ts
 #EXTINF:-1,5USA UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1964.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1964.ts
 #EXTINF:-1,AMC From BT UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1892.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1892.ts
 #EXTINF:-1,AT THE RACES UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1801.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1801.ts
 #EXTINF:-1,Alibi UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1916.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1916.ts
 #EXTINF:-1,Animal Planet +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1878.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1878.ts
 #EXTINF:-1,Animal Planet UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1879.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1879.ts
 #EXTINF:-1,BBC Four HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1990.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1990.ts
 #EXTINF:-1,BBC Four UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1989.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1989.ts
 #EXTINF:-1,BBC News HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1777.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1777.ts
 #EXTINF:-1,BBC One Channel Islands UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1776.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1776.ts
 #EXTINF:-1,BBC One FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1999.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1999.ts
 #EXTINF:-1,BBC One HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1998.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1998.ts
 #EXTINF:-1,BBC One Northern Ireland FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/2001.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2001.ts
 #EXTINF:-1,BBC One Northern Ireland UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/2000.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2000.ts
 #EXTINF:-1,BBC One Oxford UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1775.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1775.ts
 #EXTINF:-1,BBC One Scotland FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5732.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5732.ts
 #EXTINF:-1,BBC One Scotland UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1786.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1786.ts
 #EXTINF:-1,BBC One UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1997.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1997.ts
 #EXTINF:-1,BBC One Wales UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/2002.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2002.ts
 #EXTINF:-1,BBC One Yorks UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1774.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1774.ts
 #EXTINF:-1,BBC Parliament UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/2003.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2003.ts
 #EXTINF:-1,BBC Two FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1996.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1996.ts
 #EXTINF:-1,BBC Two HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1995.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1995.ts
 #EXTINF:-1,BBC Two Scotland UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/2004.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2004.ts
 #EXTINF:-1,BBC Two UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1994.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1994.ts
 #EXTINF:-1,BBC World News UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/2006.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/2006.ts
 #EXTINF:-1,BET UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1961.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1961.ts
 #EXTINF:-1,BT Sport 1 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5716.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5716.ts
 #EXTINF:-1,BT Sport 1 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/370.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/370.ts
 #EXTINF:-1,BT Sport 1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/369.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/369.ts
 #EXTINF:-1,BT Sport 2 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5715.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5715.ts
 #EXTINF:-1,BT Sport 2 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/368.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/368.ts
 #EXTINF:-1,BT Sport 2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/367.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/367.ts
 #EXTINF:-1,BT Sport 3 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5714.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5714.ts
 #EXTINF:-1,BT Sport 3 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/366.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/366.ts
 #EXTINF:-1,BT Sport 3 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/365.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/365.ts
 #EXTINF:-1,BT Sport ESPN HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1743.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1743.ts
 #EXTINF:-1,BT Sport ESPN UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1819.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1819.ts
 #EXTINF:-1,BT Sport Extra 1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1818.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1818.ts
 #EXTINF:-1,BT Sport Extra 2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1817.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1817.ts
 #EXTINF:-1,BT Sport Extra 3 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1816.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1816.ts
 #EXTINF:-1,BT Sport Extra 4 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1815.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1815.ts
 #EXTINF:-1,BT Sport Extra 5 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1814.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1814.ts
 #EXTINF:-1,BT Sport Mosaic 2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1813.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1813.ts
 #EXTINF:-1,Baby TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1852.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1852.ts
 #EXTINF:-1,Bike Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1893.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1893.ts
 #EXTINF:-1,Blaze UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1787.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1787.ts
 #EXTINF:-1,Bloomberg TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1770.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1770.ts
 #EXTINF:-1,Boomerang +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1769.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1769.ts
 #EXTINF:-1,Boomerang UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1862.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1862.ts
 #EXTINF:-1,Box Hits UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1768.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1768.ts
 #EXTINF:-1,Box Upfront UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1767.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1767.ts
 #EXTINF:-1,BoxNation FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6422.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6422.ts
 #EXTINF:-1,BoxNation HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5712.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5712.ts
 #EXTINF:-1,BoxNation UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1805.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1805.ts
 #EXTINF:-1,CAPITAL TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1778.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1778.ts
 #EXTINF:-1,CBBC HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1993.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1993.ts
 #EXTINF:-1,CBBC UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1991.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1991.ts
 #EXTINF:-1,CBS Action UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1909.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1909.ts
 #EXTINF:-1,CBS Drama UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1908.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1908.ts
 #EXTINF:-1,CBS Reality UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1910.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1910.ts
 #EXTINF:-1,CBeebies HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1741.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1741.ts
 #EXTINF:-1,CITV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1740.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1740.ts
 #EXTINF:-1,CNN FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1780.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1780.ts
 #EXTINF:-1,CNN UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1764.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1764.ts
 #EXTINF:-1,Cartoon Network UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1857.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1857.ts
 #EXTINF:-1,Cartoonito UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1865.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1865.ts
 #EXTINF:-1,Challenge +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1944.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1944.ts
 #EXTINF:-1,Challenge UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1782.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1782.ts
 #EXTINF:-1,Channel 4 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1971.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1971.ts
 #EXTINF:-1,Channel 4 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1970.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1970.ts
 #EXTINF:-1,Channel 4 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1972.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1972.ts
 #EXTINF:-1,Channel 5 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1969.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1969.ts
 #EXTINF:-1,Channel 5 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1967.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1967.ts
 #EXTINF:-1,Channel 5 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1968.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1968.ts
 #EXTINF:-1,Channel AKA UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1945.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1945.ts
 #EXTINF:-1,Chart Show Hits UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1766.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1766.ts
 #EXTINF:-1,Chart Show TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1765.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1765.ts
 #EXTINF:-1,Chelsea TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1796.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1796.ts
 #EXTINF:-1,Comedy Central Extra +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1894.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1894.ts
 #EXTINF:-1,Comedy Central Extra UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1895.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1895.ts
 #EXTINF:-1,Comedy Central UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1896.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1896.ts
 #EXTINF:-1,Crime+Investigation +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1880.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1880.ts
 #EXTINF:-1,Crime+Investigation UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1881.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1881.ts
 #EXTINF:-1,DMAX +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1876.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1876.ts
 #EXTINF:-1,DMAX UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1877.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1877.ts
 #EXTINF:-1,Dave UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1911.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1911.ts
 #EXTINF:-1,Dave ja vu UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1788.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1788.ts
 #EXTINF:-1,Discovery Channel +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1887.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1887.ts
 #EXTINF:-1,Discovery Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1886.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1886.ts
 #EXTINF:-1,Discovery History +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1872.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1872.ts
 #EXTINF:-1,Discovery History UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1873.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1873.ts
 #EXTINF:-1,Discovery Home & Health +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1868.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1868.ts
 #EXTINF:-1,Discovery Home & Health UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1826.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1826.ts
 #EXTINF:-1,Discovery Science +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1874.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1874.ts
 #EXTINF:-1,Discovery Science UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1875.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1875.ts
 #EXTINF:-1,Discovery Shed UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1885.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1885.ts
 #EXTINF:-1,Discovery Turbo UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1884.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1884.ts
 #EXTINF:-1,Disney Channel +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1843.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1843.ts
 #EXTINF:-1,Disney Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1844.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1844.ts
 #EXTINF:-1,Disney Junior +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1762.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1762.ts
 #EXTINF:-1,Disney Junior UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1845.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1845.ts
 #EXTINF:-1,Disney XD +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1847.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1847.ts
 #EXTINF:-1,Disney XD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1846.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1846.ts
 #EXTINF:-1,Drama UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1863.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1863.ts
 #EXTINF:-1,E! +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1907.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1907.ts
 #EXTINF:-1,E! UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1934.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1934.ts
 #EXTINF:-1,E4 +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1965.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1965.ts
 #EXTINF:-1,E4 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1966.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1966.ts
 #EXTINF:-1,Eden +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1946.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1946.ts
 #EXTINF:-1,Eden UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1935.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1935.ts
 #EXTINF:-1,Eurosport 1 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1812.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1812.ts
 #EXTINF:-1,Eurosport 2 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1811.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1811.ts
 #EXTINF:-1,FOX News UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1760.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1760.ts
 #EXTINF:-1,FOX UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1913.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1913.ts
 #EXTINF:-1,FOX+ UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1914.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1914.ts
 #EXTINF:-1,Film4 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1830.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1830.ts
 #EXTINF:-1,Flava UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1761.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1761.ts
 #EXTINF:-1,Food Network +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1941.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1941.ts
 #EXTINF:-1,Food Network UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1942.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1942.ts
 #EXTINF:-1,GINX eSports TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1758.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1758.ts
 #EXTINF:-1,GOLD +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1947.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1947.ts
 #EXTINF:-1,GOLD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1915.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1915.ts
 #EXTINF:-1,Geo News PK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1759.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1759.ts
 #EXTINF:-1,Good Food UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1912.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1912.ts
 #EXTINF:-1,H2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1871.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1871.ts
 #EXTINF:-1,Hillsong Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1757.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1757.ts
 #EXTINF:-1,History +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1866.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1866.ts
 #EXTINF:-1,History UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1867.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1867.ts
 #EXTINF:-1,Home +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1869.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1869.ts
 #EXTINF:-1,Home UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1870.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1870.ts
 #EXTINF:-1,Horror Channel +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1926.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1926.ts
 #EXTINF:-1,Horror Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1825.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1825.ts
 #EXTINF:-1,ITV +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1984.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1984.ts
 #EXTINF:-1,ITV Box Office UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6196.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6196.ts
 #EXTINF:-1,ITV Encore +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1973.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1973.ts
 #EXTINF:-1,ITV Encore UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1927.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1927.ts
 #EXTINF:-1,ITV FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1986.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1986.ts
 #EXTINF:-1,ITV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1985.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1985.ts
 #EXTINF:-1,ITV2 +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1981.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1981.ts
 #EXTINF:-1,ITV2 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5738.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5738.ts
 #EXTINF:-1,ITV2 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1983.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1983.ts
 #EXTINF:-1,ITV2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1982.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1982.ts
 #EXTINF:-1,ITV3 +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1978.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1978.ts
 #EXTINF:-1,ITV3 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1980.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1980.ts
 #EXTINF:-1,ITV3 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1979.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1979.ts
 #EXTINF:-1,ITV4 +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1975.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1975.ts
 #EXTINF:-1,ITV4 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1977.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1977.ts
 #EXTINF:-1,ITV4 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1976.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1976.ts
 #EXTINF:-1,ITVBe +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1974.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1974.ts
 #EXTINF:-1,Investigation Discovery +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1882.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1882.ts
 #EXTINF:-1,Investigation Discovery UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1883.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1883.ts
 #EXTINF:-1,KISS UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1929.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1929.ts
 #EXTINF:-1,KIX +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1755.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1755.ts
 #EXTINF:-1,KIX UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1756.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1756.ts
 #EXTINF:-1,Kerrang! TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1928.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1928.ts
 #EXTINF:-1,LFC TV FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5710.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5710.ts
 #EXTINF:-1,LFC TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1802.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1802.ts
 #EXTINF:-1,MTV +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1834.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1834.ts
 #EXTINF:-1,MTV 90's UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1754.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1754.ts
 #EXTINF:-1,MTV Base UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1836.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1836.ts
 #EXTINF:-1,MTV Classic UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1837.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1837.ts
 #EXTINF:-1,MTV Dance UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1838.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1838.ts
 #EXTINF:-1,MTV Hits UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1839.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1839.ts
 #EXTINF:-1,MTV Music UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1840.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1840.ts
 #EXTINF:-1,MTV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1835.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1835.ts
 #EXTINF:-1,MU TV HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1797.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1797.ts
 #EXTINF:-1,MUTV FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5736.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5736.ts
 #EXTINF:-1,MUTV HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1810.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1810.ts
 #EXTINF:-1,MUTV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1809.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1809.ts
 #EXTINF:-1,Made In Bristol UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1949.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1949.ts
 #EXTINF:-1,Made In Cardif UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1950.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1950.ts
 #EXTINF:-1,More4 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1930.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1930.ts
 #EXTINF:-1,Motors TV HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1891.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1891.ts
 #EXTINF:-1,Movies 24 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1829.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1829.ts
 #EXTINF:-1,Movies4Men +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1828.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1828.ts
 #EXTINF:-1,Movies4Men UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1827.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1827.ts
 #EXTINF:-1,My5 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1789.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1789.ts
 #EXTINF:-1,Nat Geo Wild UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1889.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1889.ts
 #EXTINF:-1,National Geographic UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1888.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1888.ts
 #EXTINF:-1,Nick Jr. +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1849.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1849.ts
 #EXTINF:-1,Nick Jr. Peppa UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1753.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1753.ts
 #EXTINF:-1,Nick Jr. Too UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1848.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1848.ts
 #EXTINF:-1,Nick Jr. UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1850.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1850.ts
 #EXTINF:-1,NickToons UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1864.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1864.ts
 #EXTINF:-1,Nickelodeon +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1858.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1858.ts
 #EXTINF:-1,Nickelodeon UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1859.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1859.ts
 #EXTINF:-1,PBS America UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1791.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1791.ts
 #EXTINF:-1,POP +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1751.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1751.ts
 #EXTINF:-1,POP UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1752.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1752.ts
 #EXTINF:-1,Pick +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1951.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1951.ts
 #EXTINF:-1,Pick UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1853.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1853.ts
 #EXTINF:-1,Premier Sports FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5737.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5737.ts
 #EXTINF:-1,Premier Sports HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1807.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1807.ts
 #EXTINF:-1,Premier Sports UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1808.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1808.ts
 #EXTINF:-1,Psychic Today UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1962.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1962.ts
 #EXTINF:-1,QUEST RED +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1749.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1749.ts
 #EXTINF:-1,QUEST RED UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1750.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1750.ts
 #EXTINF:-1,QUEST UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1890.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1890.ts
 #EXTINF:-1,RT FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1779.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1779.ts
 #EXTINF:-1,RTÉ Jr UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1854.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1854.ts
 #EXTINF:-1,RTÉ News Now UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1748.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1748.ts
 #EXTINF:-1,RTÉ One HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1933.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1933.ts
 #EXTINF:-1,RTÉ One UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1856.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1856.ts
 #EXTINF:-1,RTÉ Two HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1932.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1932.ts
 #EXTINF:-1,RTÉ Two UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1855.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1855.ts
 #EXTINF:-1,Racing FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1799.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1799.ts
 #EXTINF:-1,Racing UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1800.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1800.ts
 #EXTINF:-1,Real Lives +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1952.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1952.ts
 #EXTINF:-1,Real Lives UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1939.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1939.ts
 #EXTINF:-1,Really UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1940.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1940.ts
 #EXTINF:-1,Redbul TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1784.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1784.ts
 #EXTINF:-1,S4C UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1931.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1931.ts
 #EXTINF:-1,STV FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1987.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1987.ts
 #EXTINF:-1,Scuzz UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1747.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1747.ts
 #EXTINF:-1,Sky 1 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1920.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1920.ts
 #EXTINF:-1,Sky 1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1919.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1919.ts
 #EXTINF:-1,Sky 2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1918.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1918.ts
 #EXTINF:-1,Sky Arts UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1917.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1917.ts
 #EXTINF:-1,Sky Atlantic +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1921.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1921.ts
 #EXTINF:-1,Sky Atlantic UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1922.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1922.ts
 #EXTINF:-1,Sky Box Office UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1806.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1806.ts
 #EXTINF:-1,Sky Cinema Action & Adventure HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/351.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/351.ts
 #EXTINF:-1,Sky Cinema Action & Adventure UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/352.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/352.ts
 #EXTINF:-1,Sky Cinema Box Office 1 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5726.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5726.ts
 #EXTINF:-1,Sky Cinema Box Office 2 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5725.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5725.ts
 #EXTINF:-1,Sky Cinema Box Office 3D FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5724.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5724.ts
 #EXTINF:-1,Sky Cinema Box Office 4 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5723.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5723.ts
 #EXTINF:-1,Sky Cinema Comedy HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/349.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/349.ts
 #EXTINF:-1,Sky Cinema Comedy UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/350.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/350.ts
 #EXTINF:-1,Sky Cinema Crime & Thriller HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/338.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/338.ts
 #EXTINF:-1,Sky Cinema Crime & Thriller UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/348.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/348.ts
 #EXTINF:-1,Sky Cinema Disney HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/346.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/346.ts
 #EXTINF:-1,Sky Cinema Disney UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/347.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/347.ts
 #EXTINF:-1,Sky Cinema Drama & Romance UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/345.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/345.ts
 #EXTINF:-1,Sky Cinema Family HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/343.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/343.ts
 #EXTINF:-1,Sky Cinema Family UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/344.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/344.ts
 #EXTINF:-1,Sky Cinema Greats UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/342.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/342.ts
 #EXTINF:-1,Sky Cinema Oscars UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1823.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1823.ts
 #EXTINF:-1,Sky Cinema Premiere +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1824.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1824.ts
 #EXTINF:-1,Sky Cinema Premiere UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/341.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/341.ts
 #EXTINF:-1,Sky Cinema Sci-Fi & Horror UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/340.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/340.ts
 #EXTINF:-1,Sky Cinema Select UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/339.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/339.ts
 #EXTINF:-1,Sky Hits UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1822.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1822.ts
 #EXTINF:-1,Sky Living +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1923.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1923.ts
 #EXTINF:-1,Sky Living UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1924.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1924.ts
 #EXTINF:-1,Sky News FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6439.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6439.ts
 #EXTINF:-1,Sky News UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1925.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1925.ts
 #EXTINF:-1,Sky Sports Action FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5720.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5720.ts
 #EXTINF:-1,Sky Sports Action HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/333.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/333.ts
 #EXTINF:-1,Sky Sports Action UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/374.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/374.ts
 #EXTINF:-1,Sky Sports Arena FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6202.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6202.ts
 #EXTINF:-1,Sky Sports Arena HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6201.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6201.ts
 #EXTINF:-1,Sky Sports Arena UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6200.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6200.ts
 #EXTINF:-1,Sky Sports Box Office UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1820.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1820.ts
 #EXTINF:-1,Sky Sports Cricket FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5721.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5721.ts
 #EXTINF:-1,Sky Sports Cricket HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/334.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/334.ts
 #EXTINF:-1,Sky Sports Cricket UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/375.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/375.ts
 #EXTINF:-1,Sky Sports F1 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5717.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5717.ts
 #EXTINF:-1,Sky Sports F1 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/371.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/371.ts
 #EXTINF:-1,Sky Sports F1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/337.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/337.ts
 #EXTINF:-1,Sky Sports Football FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6205.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6205.ts
 #EXTINF:-1,Sky Sports Football HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6204.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6204.ts
 #EXTINF:-1,Sky Sports Football UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/6203.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/6203.ts
 #EXTINF:-1,Sky Sports Golf FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5719.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5719.ts
 #EXTINF:-1,Sky Sports Golf HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/332.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/332.ts
 #EXTINF:-1,Sky Sports Golf UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/373.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/373.ts
 #EXTINF:-1,Sky Sports Main Event FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5722.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5722.ts
 #EXTINF:-1,Sky Sports Main Event HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/335.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/335.ts
 #EXTINF:-1,Sky Sports Main Event UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/376.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/376.ts
 #EXTINF:-1,Sky Sports Mix HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1821.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1821.ts
 #EXTINF:-1,Sky Sports News HQ UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/336.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/336.ts
 #EXTINF:-1,Sky Sports Premier League FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5718.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5718.ts
 #EXTINF:-1,Sky Sports Premier League HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/331.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/331.ts
 #EXTINF:-1,Sky Sports Premier League UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/372.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/372.ts
 #EXTINF:-1,Sony Channel +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1943.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1943.ts
 #EXTINF:-1,Starz TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1746.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1746.ts
 #EXTINF:-1,Syfy +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1899.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1899.ts
 #EXTINF:-1,Syfy UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1900.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1900.ts
 #EXTINF:-1,TCM +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1954.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1954.ts
 #EXTINF:-1,TCM UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1955.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1955.ts
 #EXTINF:-1,TG4 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1793.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1793.ts
 #EXTINF:-1,TLC +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1902.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1902.ts
 #EXTINF:-1,TLC +2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1901.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1901.ts
 #EXTINF:-1,TLC UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1903.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1903.ts
 #EXTINF:-1,TV3 +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1957.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1957.ts
 #EXTINF:-1,TV3 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1958.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1958.ts
 #EXTINF:-1,The Box UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1745.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1745.ts
 #EXTINF:-1,The Vault UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1744.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1744.ts
 #EXTINF:-1,Tiny Pop +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1860.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1860.ts
 #EXTINF:-1,Tiny Pop UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1861.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1861.ts
 #EXTINF:-1,Travel Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1781.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1781.ts
 #EXTINF:-1,True Crime +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1832.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1832.ts
 #EXTINF:-1,True Crime UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1833.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1833.ts
 #EXTINF:-1,True Entertainment UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1783.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1783.ts
 #EXTINF:-1,True Movies 2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1831.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1831.ts
 #EXTINF:-1,UTV FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1988.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1988.ts
 #EXTINF:-1,UTV HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1959.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1959.ts
 #EXTINF:-1,Universal Channel +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1897.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1897.ts
 #EXTINF:-1,Universal Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1898.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1898.ts
 #EXTINF:-1,VH1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1841.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1841.ts
 #EXTINF:-1,VIVA UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1842.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1842.ts
 #EXTINF:-1,Viceland UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1953.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1953.ts
 #EXTINF:-1,Vintage TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1960.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1960.ts
 #EXTINF:-1,W +1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1904.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1904.ts
 #EXTINF:-1,W UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1905.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1905.ts
 #EXTINF:-1,William Hill TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1772.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1772.ts
 #EXTINF:-1,World Fight Channel UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1948.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1948.ts
 #EXTINF:-1,YESTERDAY UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1906.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1906.ts
 #EXTINF:-1,YourTV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1785.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1785.ts
 #EXTINF:-1,eir Sport 1 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1804.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1804.ts
 #EXTINF:-1,eir Sport 2 FHD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/5713.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5713.ts
 #EXTINF:-1,eir Sport 2 HD UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1798.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1798.ts
 #EXTINF:-1,eir Sport 2 UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1803.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1803.ts
 #EXTINF:-1,tru TV UK
-http://sekoiptv.ddns.net:8080/live/ism/ism/1956.ts
+http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1956.ts
+#EXTINF:-1,======SKY-UK=====
+http://server3.tv-monde.com:8000/live/bvcf78azg/generator/525.ts
 #EXTINF:-1,UK:Sky-MoviesAction
 http://server3.tv-monde.com:8000/live/bvcf78azg/generator/490.ts
 #EXTINF:-1,UK:Sky-Movies-Drama
@@ -677,339 +695,4 @@ http://server3.tv-monde.com:8000/live/bvcf78azg/generator/499.ts
 http://server3.tv-monde.com:8000/live/bvcf78azg/generator/508.ts
 #EXTINF:-1,UK:Animal-Planet
 http://server3.tv-monde.com:8000/live/bvcf78azg/generator/509.ts
-#EXTINF:-1,Sky Cinema  1 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/179.ts
-#EXTINF:-1,Sky Cinema HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/178.ts
-#EXTINF:-1,Sky Cinema Family
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/184.ts
-#EXTINF:-1,Sky Cinema Emotion
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/183.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/182.ts
-#EXTINF:-1,Sky Cinema Action HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/181.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/185.ts
-#EXTINF:-1,Sky Cinema  24 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/180.ts
-#EXTINF:-1,Sky Atlantic HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/177.ts
-#EXTINF:-1,Sky Cinema Nostalgie
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/186.ts
-#EXTINF:-1,Syfy HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/191.ts
-#EXTINF:-1,TNT Serie HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/193.ts
-#EXTINF:-1,Sky Select 1 Live
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/175.ts
-#EXTINF:-1,Sky Select 2 Live
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/176.ts
-#EXTINF:-1,Sky Select
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/189.ts
-#EXTINF:-1,Sky Sport Fanzone HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/197.ts
-#EXTINF:-1,TNT Film (TCM)
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/192.ts
-#EXTINF:-1,TOGGO plus
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/194.ts
-#EXTINF:-1,Sport1 US HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/222.ts
-#EXTINF:-1,Sport1  HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/221.ts
-#EXTINF:-1,SPIEGEL GESCHICHTE HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/190.ts
-#EXTINF:-1,Sky Sport News HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/198.ts
-#EXTINF:-1,Sky Sport Austria
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/199.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/200.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/201.ts
-#EXTINF:-1,SKY NEWS
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/188.ts
-#EXTINF:-1,Sky Krimi
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/187.ts
-#EXTINF:-1,SAT.1 Gold
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/173.ts
-#EXTINF:-1,SAT.1
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/172.ts
-#EXTINF:-1,RTLplus
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/171.ts
-#EXTINF:-1,RTLNITRO
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/170.ts
-#EXTINF:-1,RTL2
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/169.ts
-#EXTINF:-1,RTL Television
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/168.ts
-#EXTINF:-1,RTL Passion
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/167.ts
-#EXTINF:-1,RTL Crime
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/166.ts
-#EXTINF:-1,ProSieben
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/165.ts
-#EXTINF:-1,Pro7 MAXX
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/164.ts
-#EXTINF:-1,NDR HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/163.ts
-#EXTINF:-1,NatGeo HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/162.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/161.ts
-#EXTINF:-1,N24
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/160.ts
-#EXTINF:-1,MOTORS TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/159.ts
-#EXTINF:-1,Melodie Express
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/157.ts
-#EXTINF:-1,MCM POP
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/155.ts
-#EXTINF:-1,KINOWELT TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/154.ts
-#EXTINF:-1,KiKA
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/153.ts
-#EXTINF:-1,kabel eins
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/152.ts
-#EXTINF:-1,Juwelo TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/151.ts
-#EXTINF:-1,Junior
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/150.ts
-#EXTINF:-1,Insight UHD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/124.ts
-#EXTINF:-1,History HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/149.ts
-#EXTINF:-1,Heimatkanal
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/148.ts
-#EXTINF:-1,Goldstar TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/147.ts
-#EXTINF:-1,Fundorado TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/146.ts
-#EXTINF:-1,Fox Serie
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/145.ts
-#EXTINF:-1,FOX NEWS
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/144.ts
-#EXTINF:-1,Fox HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/143.ts
-#EXTINF:-1,Eurosport HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/142.ts
-#EXTINF:-1,ES-SUPER RTL
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/141.ts
-#EXTINF:-1,Disney XD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/140.ts
-#EXTINF:-1,Disney Junior
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/139.ts
-#EXTINF:-1,Disney Cinemagic HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/138.ts
-#EXTINF:-1,Discovery HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/137.ts
-#EXTINF:-1,Discovery Channel
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/136.ts
-#EXTINF:-1,CNN
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/135.ts
-#EXTINF:-1,CNBC
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/134.ts
-#EXTINF:-1,Classica
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/133.ts
-#EXTINF:-1,Bloomberg
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/132.ts
-#EXTINF:-1,BEATE-UHSE.TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/131.ts
-#EXTINF:-1,BBC WORLD News
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/130.ts
-#EXTINF:-1,AUGSBURG TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/129.ts
-#EXTINF:-1,ARD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/128.ts
-#EXTINF:-1,ANIXE
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/127.ts
-#EXTINF:-1,3SAT
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/126.ts
-#EXTINF:-1,13th Street
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/125.ts
-#EXTINF:-1,ZDF
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/196.ts
-#EXTINF:-1,WDR HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/195.ts
-#EXTINF:-1,VOX
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/3.ts
-#EXTINF:-1,SUPER-RTL
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/4.ts
-#EXTINF:-1,RTL
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/1.ts
-#EXTINF:-1,ORF_1_HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/37.ts
-#EXTINF:-1,ORF_2_HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/36.ts
-#EXTINF:-1,race uk
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/464.ts
-#EXTINF:-1,Sky News uk
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/467.ts
-#EXTINF:-1,CNN UK
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/468.ts
-#EXTINF:-1,ITV 1 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/119.ts
-#EXTINF:-1,ITV 2 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/120.ts
-#EXTINF:-1,ITV 3 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/121.ts
-#EXTINF:-1,ITV 4 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/122.ts
-#EXTINF:-1,SKY ONE HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/67.ts
-#EXTINF:-1,SKY TWO
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/224.ts
-#EXTINF:-1,NICK TOONS
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/225.ts
-#EXTINF:-1,4E
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/229.ts
-#EXTINF:-1,GOLD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/243.ts
-#EXTINF:-1,DISCOVERY INVESTI
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/227.ts
-#EXTINF:-1,ESPN
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/232.ts
-#EXTINF:-1,FOX
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/223.ts
-#EXTINF:-1,HISTORY CHANNEL
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/226.ts
-#EXTINF:-1,Sky-Movies-Sci-Fi&Horror
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/231.ts
-#EXTINF:-1,SPORT ONE
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/233.ts
-#EXTINF:-1,SYFY
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/230.ts
-#EXTINF:-1,DMAX
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/228.ts
-#EXTINF:-1,Sky-Movies-Action
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/117.ts
-#EXTINF:-1,Sky-Movies -Premiere
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/118.ts
-#EXTINF:-1,MOVIE 4 MEN
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/246.ts
-#EXTINF:-1,Sky-movies-Thriller
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/111.ts
-#EXTINF:-1,TBS
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/112.ts
-#EXTINF:-1,Sky-Movies-Select
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/113.ts
-#EXTINF:-1,Sky-Movies-Family
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/114.ts
-#EXTINF:-1,CBS DRAMA
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/115.ts
-#EXTINF:-1,Sky-Movies-Comedy
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/116.ts
-#EXTINF:-1,CBS REALITY
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/102.ts
-#EXTINF:-1,TRACE
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/61.ts
-#EXTINF:-1,sky sports news hd
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/110.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/62.ts
-#EXTINF:-1,SKY SPORTS 1 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/66.ts
-#EXTINF:-1,Sky Sports 2 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/65.ts
-#EXTINF:-1,Sky Sports 3 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/64.ts
-#EXTINF:-1,Sky Sports 4 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/63.ts
-#EXTINF:-1,SKY SPORT 5
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/472.ts
-#EXTINF:-1,SKY LIVING
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/474.ts
-#EXTINF:-1,sky disney
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/465.ts
-#EXTINF:-1,SKY ATLANTIC UK
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/475.ts
-#EXTINF:-1,RTE TWO
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/471.ts
-#EXTINF:-1,NICKTOONS UK
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/473.ts
-#EXTINF:-1,HISTORY 2
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/469.ts
-#EXTINF:-1,SKY ART
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/68.ts
-#EXTINF:-1,COMEDY CENTRAL
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/69.ts
-#EXTINF:-1,Sky Movies Show Case
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/103.ts
-#EXTINF:-1,NBC Sport
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/70.ts
-#EXTINF:-1,SKY MOVIES MODERN GREAT HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/71.ts
-#EXTINF:-1,Animal Planet.
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/72.ts
-#EXTINF:-1,Sky Movies Drama HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/73.ts
-#EXTINF:-1,Nickelodeon Jr
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/74.ts
-#EXTINF:-1,BABY TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/75.ts
-#EXTINF:-1,Setanta Sports
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/105.ts
-#EXTINF:-1,Travel Channel
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/76.ts
-#EXTINF:-1,National Geography HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/106.ts
-#EXTINF:-1,National Geo WILD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/107.ts
-#EXTINF:-1,MTV MUSIC
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/77.ts
-#EXTINF:-1,MU TV
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/78.ts
-#EXTINF:-1,ABC
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/108.ts
-#EXTINF:-1,LIVERPOOL FC
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/79.ts
-#EXTINF:-1,CNN ENGLISH
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/237.ts
-#EXTINF:-1,Eurosport 1
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/81.ts
-#EXTINF:-1,NFL
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/82.ts
-#EXTINF:-1,NHL
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/83.ts
-#EXTINF:-1,FOOD NETWORK
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/90.ts
-#EXTINF:-1,Chelsea FC
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/91.ts
-#EXTINF:-1,BT Sport Extra
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/93.ts
-#EXTINF:-1,BT SPORT EUROPE HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/94.ts
-#EXTINF:-1,BT Sport ESPN
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/92.ts
-#EXTINF:-1,BT SPORT 1 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/96.ts
-#EXTINF:-1,BT Sport 2 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/95.ts
-#EXTINF:-1,Box Nation HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/97.ts
-#EXTINF:-1,BBC News
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/123.ts
-#EXTINF:-1,BBC 1 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/100.ts
-#EXTINF:-1,BBC 2 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/99.ts
-#EXTINF:-1,BBC 3 HD
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/98.ts
-#EXTINF:-1,5 uk
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/101.ts
-#EXTINF:-1,DISNEY JUNIOR EN
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/236.ts
-#EXTINF:-1,CARTOON
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/234.ts
-#EXTINF:-1,BOOMRANG
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/235.ts
-#EXTINF:-1,TLC EN
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/238.ts
-#EXTINF:-1,DISNEY XD.
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/247.ts
-#EXTINF:-1,DISCOVERY TURBO
-http://62.210.82.89:8000/live/303040977B03cC/040007400Y4282/244.ts
-
-
-
 

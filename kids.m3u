@@ -1,56 +1,27 @@
-#EXTINF:-1,Baby TV UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1852.ts
-#EXTINF:-1,CBBC HD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1993.ts
-#EXTINF:-1,Cartoon Network UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1857.ts
-#EXTINF:-1,Cartoonito UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1865.ts
-#EXTINF:-1,Disney Channel UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1844.ts
-#EXTINF:-1,Disney Junior +1 UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1762.ts
-#EXTINF:-1,Disney XD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1846.ts
-#EXTINF:-1,Nick Jr. +1 UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1849.ts
-#EXTINF:-1,Nick Jr. Peppa UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1753.ts
-#EXTINF:-1,Nick Jr. Too UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1848.ts
-#EXTINF:-1,Nick Jr. UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1850.ts
-#EXTINF:-1,NickToons UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1864.ts
-#EXTINF:-1,Nickelodeon UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1859.ts
-#EXTINF:-1,POP UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1752.ts
-#EXTINF:-1,Sky Box Office UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1806.ts
-#EXTINF:-1,Sky Cinema Action & Adventure HD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/351.ts
-#EXTINF:-1,Sky Cinema Box Office 1 FHD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5726.ts
-#EXTINF:-1,Sky Cinema Box Office 2 FHD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5725.ts
-#EXTINF:-1,Sky Cinema Box Office 3D FHD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5724.ts
-#EXTINF:-1,Sky Cinema Box Office 4 FHD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/5723.ts
-#EXTINF:-1,Sky Cinema Comedy HD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/349.ts
-#EXTINF:-1,Sky Cinema Disney HD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/346.ts
-#EXTINF:-1,Sky Cinema Family HD UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/343.ts
-#EXTINF:-1,Sky Cinema Greats UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/342.ts
-#EXTINF:-1,Sky Cinema Oscars UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1823.ts
-#EXTINF:-1,Sky Cinema Premiere UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/341.ts
-#EXTINF:-1,Sky Cinema Select UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/339.ts
-#EXTINF:-1,Tiny Pop UK
-http://portal.geniptv.com:8080/live/IQFtWtjVHC/4CVyJC3udD/1861.ts
+#EXTINF:-1,|UK| Disney Junior
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/106.ts
+#EXTINF:-1,|UK| Disney XD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/105.ts
+#EXTINF:-1,|UK| CBBC HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/112.ts
+#EXTINF:-1,|UK| nick jr too
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/70.ts
+#EXTINF:-1,|UK| Nick.Jr   1
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/69.ts#EXTINF:-1,|UK| Sky Cinema Action & Adventure HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/57.ts
+#EXTINF:-1,|UK| Sky Cinema Comedy HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/56.ts
+#EXTINF:-1,|UK| Sky Cinema Crime & Thriller HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/55.ts
+#EXTINF:-1,|UK| Sky Cinema Disney HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/54.ts
+#EXTINF:-1,|UK| Sky Cinema Drama & Romance HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/53.ts
+#EXTINF:-1,|UK| Sky Cinema Family HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/52.ts
+#EXTINF:-1,|UK| Sky Cinema Hits HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/51.ts
+#EXTINF:-1,|UK| Sky Cinema Premiere HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/50.ts
+#EXTINF:-1,|UK| Sky Cinema Select HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/48.ts

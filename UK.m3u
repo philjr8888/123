@@ -1,225 +1,742 @@
-#EXTM3U
-#EXTINF:-1,*******SKY UK*******
-http://ip.cs4ip.com:8000/live/ali/ali/5966.ts
-#EXTINF:-1,UK HD : TG4
-http://ip.cs4ip.com:8000/live/ali/ali/7189.ts
-#EXTINF:-1,UK HD : TV3
-http://ip.cs4ip.com:8000/live/ali/ali/7188.ts
-#EXTINF:-1,UK HD: Alibi HD
-http://ip.cs4ip.com:8000/live/ali/ali/7187.ts
-#EXTINF:-1,UK HD: Animal Planet HD
-http://ip.cs4ip.com:8000/live/ali/ali/7223.ts
-#EXTINF:-1,UK HD: BBC Cbbc HD
-http://ip.cs4ip.com:8000/live/ali/ali/7225.ts
-#EXTINF:-1,UK HD: BBC HD 1
-http://ip.cs4ip.com:8000/live/ali/ali/7229.ts
-#EXTINF:-1,UK HD: BBC HD 2
-http://ip.cs4ip.com:8000/live/ali/ali/7228.ts
-#EXTINF:-1,UK HD: BBC HD 3 / CBBC HD
-http://ip.cs4ip.com:8000/live/ali/ali/7227.ts
-#EXTINF:-1,UK HD: BBC HD 4 / CBEEBIES HD
-http://ip.cs4ip.com:8000/live/ali/ali/7226.ts
-#EXTINF:-1,UK HD: BBC NEWS HD
-http://ip.cs4ip.com:8000/live/ali/ali/7224.ts
-#EXTINF:-1,UK HD: Bloomberg HD
-http://ip.cs4ip.com:8000/live/ali/ali/7222.ts
-#EXTINF:-1,UK HD: BT Sports 1 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7221.ts
-#EXTINF:-1,UK HD: BT Sports 2 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7220.ts
-#EXTINF:-1,UK HD: BT Sports 3 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7219.ts
-#EXTINF:-1,UK HD: BT Sports ESPN HD
-http://ip.cs4ip.com:8000/live/ali/ali/7218.ts
-#EXTINF:-1,UK HD: BT Sports FHD 1
-http://ip.cs4ip.com:8000/live/ali/ali/7211.ts
-#EXTINF:-1,UK HD: BT Sports FHD 2
-http://ip.cs4ip.com:8000/live/ali/ali/7210.ts
-#EXTINF:-1,UK HD: BT Sports FHD 3
-http://ip.cs4ip.com:8000/live/ali/ali/7209.ts
-#EXTINF:-1,UK HD: Carton Network HD
-http://ip.cs4ip.com:8000/live/ali/ali/7208.ts
-#EXTINF:-1,UK HD: Channel 4 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7207.ts
-#EXTINF:-1,UK HD: Channel 5 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7206.ts
-#EXTINF:-1,UK HD: Chelsea TV HD
-http://ip.cs4ip.com:8000/live/ali/ali/7205.ts
-#EXTINF:-1,UK HD: CI HD (crime and investigation)
-http://ip.cs4ip.com:8000/live/ali/ali/7204.ts
-#EXTINF:-1,UK HD: CNN HD
-http://ip.cs4ip.com:8000/live/ali/ali/7203.ts
-#EXTINF:-1,UK HD: Comedy Central HD
-http://ip.cs4ip.com:8000/live/ali/ali/7202.ts
-#EXTINF:-1,UK HD: Dave HD
-http://ip.cs4ip.com:8000/live/ali/ali/7201.ts
-#EXTINF:-1,UK HD: Discovery HD
-http://ip.cs4ip.com:8000/live/ali/ali/7200.ts
-#EXTINF:-1,UK HD: Disney Channel HD
-http://ip.cs4ip.com:8000/live/ali/ali/7199.ts
-#EXTINF:-1,UK HD: E4 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7198.ts
-#EXTINF:-1,UK HD: Eden HD
-http://ip.cs4ip.com:8000/live/ali/ali/7197.ts
-#EXTINF:-1,UK HD: Film 4 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7196.ts
-#EXTINF:-1,UK HD: Fox HD
-http://ip.cs4ip.com:8000/live/ali/ali/7195.ts
-#EXTINF:-1,UK HD: Good Food HD
-http://ip.cs4ip.com:8000/live/ali/ali/7194.ts
-#EXTINF:-1,UK HD: History 2 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7193.ts
-#EXTINF:-1,UK HD: Insight UHD
-http://ip.cs4ip.com:8000/live/ali/ali/7192.ts
-#EXTINF:-1,UK HD: ITV BE HD
-http://ip.cs4ip.com:8000/live/ali/ali/7231.ts
-#EXTINF:-1,UK HD: ITV Encore HD
-http://ip.cs4ip.com:8000/live/ali/ali/7230.ts
-#EXTINF:-1,UK HD: ITV HD 1
-http://ip.cs4ip.com:8000/live/ali/ali/7235.ts
-#EXTINF:-1,UK HD: ITV HD 2
-http://ip.cs4ip.com:8000/live/ali/ali/7234.ts
-#EXTINF:-1,UK HD: ITV HD 3
-http://ip.cs4ip.com:8000/live/ali/ali/7233.ts
-#EXTINF:-1,UK HD: ITV HD 4
-http://ip.cs4ip.com:8000/live/ali/ali/7232.ts
-#EXTINF:-1,UK HD: Lifetime HD
-http://ip.cs4ip.com:8000/live/ali/ali/7191.ts
-#EXTINF:-1,UK HD: More 4 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7190.ts
-#EXTINF:-1,UK HD: MTV HD
-http://ip.cs4ip.com:8000/live/ali/ali/7186.ts
-#EXTINF:-1,UK HD: MTV LIVE HD
-http://ip.cs4ip.com:8000/live/ali/ali/7185.ts
-#EXTINF:-1,UK HD: MUTV HD
-http://ip.cs4ip.com:8000/live/ali/ali/7217.ts
-#EXTINF:-1,UK HD: Ngc HD
-http://ip.cs4ip.com:8000/live/ali/ali/7184.ts
-#EXTINF:-1,UK HD: Ngc Wild HD
-http://ip.cs4ip.com:8000/live/ali/ali/7183.ts
-#EXTINF:-1,UK HD: Nick HD
-http://ip.cs4ip.com:8000/live/ali/ali/7182.ts
-#EXTINF:-1,UK HD: Rte One HD
-http://ip.cs4ip.com:8000/live/ali/ali/7181.ts
-#EXTINF:-1,UK HD: Rte Two HD
-http://ip.cs4ip.com:8000/live/ali/ali/7180.ts
-#EXTINF:-1,UK HD: Sky 1 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7179.ts
-#EXTINF:-1,UK HD: Sky Arts HD
-http://ip.cs4ip.com:8000/live/ali/ali/7178.ts
-#EXTINF:-1,UK HD: Sky Atlantic HD
-http://ip.cs4ip.com:8000/live/ali/ali/7177.ts
-#EXTINF:-1,UK HD: Sky Cinema Action HD
-http://ip.cs4ip.com:8000/live/ali/ali/7176.ts
-#EXTINF:-1,UK HD: Sky Living HD
-http://ip.cs4ip.com:8000/live/ali/ali/7175.ts
-#EXTINF:-1,UK HD: Sky Movies Comedy HD
-http://ip.cs4ip.com:8000/live/ali/ali/7174.ts
-#EXTINF:-1,UK HD: Sky Movies Disney HD
-http://ip.cs4ip.com:8000/live/ali/ali/7173.ts
-#EXTINF:-1,UK HD: Sky Movies Drama Romance HD
-http://ip.cs4ip.com:8000/live/ali/ali/7172.ts
-#EXTINF:-1,UK HD: Sky Movies Family HD
-http://ip.cs4ip.com:8000/live/ali/ali/7171.ts
-#EXTINF:-1,UK HD: Sky Movies GREATS HD
-http://ip.cs4ip.com:8000/live/ali/ali/7170.ts
-#EXTINF:-1,UK HD: Sky Movies Hits HD
-http://ip.cs4ip.com:8000/live/ali/ali/7169.ts
-#EXTINF:-1,UK HD: Sky Movies Premiere HD
-http://ip.cs4ip.com:8000/live/ali/ali/7168.ts
-#EXTINF:-1,UK HD: Sky Movies Sci-fi Horror HD
-http://ip.cs4ip.com:8000/live/ali/ali/7167.ts
-#EXTINF:-1,UK HD: Sky Movies Select HD
-http://ip.cs4ip.com:8000/live/ali/ali/7166.ts
-#EXTINF:-1,UK HD: Sky Movies Showcase HD
-http://ip.cs4ip.com:8000/live/ali/ali/7165.ts
-#EXTINF:-1,UK HD: Sky Movies Thriller HD
-http://ip.cs4ip.com:8000/live/ali/ali/7164.ts
-#EXTINF:-1,UK HD: Sky News HD
-http://ip.cs4ip.com:8000/live/ali/ali/7163.ts
-#EXTINF:-1,UK HD: Sky Sports Action FHD
-http://ip.cs4ip.com:8000/live/ali/ali/7154.ts
-#EXTINF:-1,UK HD: Sky Sports Action HD
-http://ip.cs4ip.com:8000/live/ali/ali/7160.ts
-#EXTINF:-1,UK HD: Sky Sports Cricket FHD
-http://ip.cs4ip.com:8000/live/ali/ali/7155.ts
-#EXTINF:-1,UK HD: Sky Sports Cricket HD
-http://ip.cs4ip.com:8000/live/ali/ali/7161.ts
-#EXTINF:-1,UK HD: Sky Sports F1 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7157.ts
-#EXTINF:-1,UK HD: Sky Sports FHD F1
-http://ip.cs4ip.com:8000/live/ali/ali/7151.ts
-#EXTINF:-1,UK HD: Sky Sports Golf FHD
-http://ip.cs4ip.com:8000/live/ali/ali/7153.ts
-#EXTINF:-1,UK HD: Sky Sports Golf HD
-http://ip.cs4ip.com:8000/live/ali/ali/7159.ts
-#EXTINF:-1,UK HD: Sky Sports Main Event FHD
-http://ip.cs4ip.com:8000/live/ali/ali/7156.ts
-#EXTINF:-1,UK HD: Sky Sports Main Event HD
-http://ip.cs4ip.com:8000/live/ali/ali/7162.ts
-#EXTINF:-1,UK HD: Sky Sports MIX HD
-http://ip.cs4ip.com:8000/live/ali/ali/7150.ts
-#EXTINF:-1,UK HD: Sky Sports News HD
-http://ip.cs4ip.com:8000/live/ali/ali/7149.ts
-#EXTINF:-1,UK HD: Sky Sports Premier League FHD
-http://ip.cs4ip.com:8000/live/ali/ali/7152.ts
-#EXTINF:-1,UK HD: Sky Sports Premier League HD
-http://ip.cs4ip.com:8000/live/ali/ali/7158.ts
-#EXTINF:-1,UK HD: Sports Active 1
-http://ip.cs4ip.com:8000/live/ali/ali/7148.ts
-#EXTINF:-1,UK HD: Sports Active 10
-http://ip.cs4ip.com:8000/live/ali/ali/7147.ts
-#EXTINF:-1,UK HD: Sports Active 2
-http://ip.cs4ip.com:8000/live/ali/ali/7146.ts
-#EXTINF:-1,UK HD: Sports Active 3
-http://ip.cs4ip.com:8000/live/ali/ali/7145.ts
-#EXTINF:-1,UK HD: Sports Active 4
-http://ip.cs4ip.com:8000/live/ali/ali/7144.ts
-#EXTINF:-1,UK HD: Sports Active 5
-http://ip.cs4ip.com:8000/live/ali/ali/7143.ts
-#EXTINF:-1,UK HD: Sports Active 6
-http://ip.cs4ip.com:8000/live/ali/ali/7142.ts
-#EXTINF:-1,UK HD: Sports Active 7
-http://ip.cs4ip.com:8000/live/ali/ali/7141.ts
-#EXTINF:-1,UK HD: Sports Active 8
-http://ip.cs4ip.com:8000/live/ali/ali/7140.ts
-#EXTINF:-1,UK HD: Sports Active 9
-http://ip.cs4ip.com:8000/live/ali/ali/7139.ts
-#EXTINF:-1,UK HD: Syfy HD
-http://ip.cs4ip.com:8000/live/ali/ali/7138.ts
-#EXTINF:-1,UK HD: Tcm HD
-http://ip.cs4ip.com:8000/live/ali/ali/7137.ts
-#EXTINF:-1,UK HD: TG 4 HD
-http://ip.cs4ip.com:8000/live/ali/ali/7136.ts
-#EXTINF:-1,UK HD: Universal HD
-http://ip.cs4ip.com:8000/live/ali/ali/7135.ts
-#EXTINF:-1,UK HD: UTV HD
-http://ip.cs4ip.com:8000/live/ali/ali/7134.ts
-#EXTINF:-1,UK HD: W HD
-http://ip.cs4ip.com:8000/live/ali/ali/7133.ts
-#EXTINF:-1,UK: 3e HD
-http://ip.cs4ip.com:8000/live/ali/ali/7132.ts
-#EXTINF:-1,UK : BT Sports Extra 1
-http://ip.cs4ip.com:8000/live/ali/ali/7216.ts
-#EXTINF:-1,UK: BT Sports Extra 2
-http://ip.cs4ip.com:8000/live/ali/ali/7215.ts
-#EXTINF:-1,UK: BT Sports Extra 3
-http://ip.cs4ip.com:8000/live/ali/ali/7214.ts
-#EXTINF:-1,UK: BT Sports Extra 4
-http://ip.cs4ip.com:8000/live/ali/ali/7213.ts
-#EXTINF:-1,UK: BT Sports Extra 5
-http://ip.cs4ip.com:8000/live/ali/ali/7212.ts
-#EXTINF:-1,UK: EIR Sports HD 2
-http://ip.cs4ip.com:8000/live/ali/ali/7131.ts
-#EXTINF:-1,UK: Eurosports HD
-http://ip.cs4ip.com:8000/live/ali/ali/7130.ts
-#EXTINF:-1,UK: Eurosports HD 2
-http://ip.cs4ip.com:8000/live/ali/ali/7129.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://ip.cs4ip.com:8000/live/ali/ali/7128.ts
-#EXTINF:-1,UK: Racing UK HD
-http://ip.cs4ip.com:8000/live/ali/ali/7127.ts
-#EXTINF:-1,UK: Setanta/Premier Sports HD
-http://ip.cs4ip.com:8000/live/ali/ali/7126.ts
-#EXTINF:-1,UK: TLC HD
-http://ip.cs4ip.com:8000/live/ali/ali/7125.ts
+#EXTINF:-1,Sky Sports Main Event HD
+http://iptv.myeasytv.xyz:8000/live/100/100/14376.ts
+#EXTINF:-1,Sky Sports Cricket HD
+http://iptv.myeasytv.xyz:8000/live/100/100/14377.ts
+#EXTINF:-1,Sky Sports Action HD
+http://iptv.myeasytv.xyz:8000/live/100/100/14378.ts
+#EXTINF:-1,Sky Sports Golf HD
+http://iptv.myeasytv.xyz:8000/live/100/100/14379.ts
+#EXTINF:-1,Sky Sports PL HD
+http://iptv.myeasytv.xyz:8000/live/100/100/14380.ts
+#EXTINF:-1,Sky Sports Football HD
+http://iptv.myeasytv.xyz:8000/live/100/100/23091.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/16917.ts
+#EXTINF:-1,Sky Sports News Hq HD
+http://iptv.myeasytv.xyz:8000/live/100/100/14388.ts
+#EXTINF:-1,Sky Sports Arena HD
+http://iptv.myeasytv.xyz:8000/live/100/100/21635.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD LOCAL
+http://iptv.myeasytv.xyz:8000/live/100/100/17359.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD LOCAL BACKUP
+http://iptv.myeasytv.xyz:8000/live/100/100/17358.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD LOCAL
+http://iptv.myeasytv.xyz:8000/live/100/100/17357.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD LOCAL BACKUP
+http://iptv.myeasytv.xyz:8000/live/100/100/17356.ts
+#EXTINF:-1,SKY SPORTS ACTION HD LOCAL
+http://iptv.myeasytv.xyz:8000/live/100/100/17355.ts
+#EXTINF:-1,SKY SPORTS ACTION HD LOCAL BACKUP
+http://iptv.myeasytv.xyz:8000/live/100/100/17354.ts
+#EXTINF:-1,SKY SPORTS GOLF HD LOCAL
+http://iptv.myeasytv.xyz:8000/live/100/100/17353.ts
+#EXTINF:-1,SKY SPORTS GOLF HD LOCAL BACKUP
+http://iptv.myeasytv.xyz:8000/live/100/100/17352.ts
+#EXTINF:-1,SKY SPORTS PL HD LOCAL
+http://iptv.myeasytv.xyz:8000/live/100/100/17351.ts
+#EXTINF:-1,SKY SPORTS PL HD LOCAL BACKUP
+http://iptv.myeasytv.xyz:8000/live/100/100/17350.ts
+#EXTINF:-1,SKY SPORTS F1 HD LOCAL
+http://iptv.myeasytv.xyz:8000/live/100/100/17349.ts
+#EXTINF:-1,Sky Sports News HQ
+http://iptv.myeasytv.xyz:8000/live/100/100/13950.ts
+#EXTINF:-1,Sky Sports Main Event
+http://iptv.myeasytv.xyz:8000/live/100/100/13875.ts
+#EXTINF:-1,Sky Sports Cricket
+http://iptv.myeasytv.xyz:8000/live/100/100/13976.ts
+#EXTINF:-1,Sky Sports Action
+http://iptv.myeasytv.xyz:8000/live/100/100/13942.ts
+#EXTINF:-1,Sky Sports Golf
+http://iptv.myeasytv.xyz:8000/live/100/100/13981.ts
+#EXTINF:-1,Sky Sports PL
+http://iptv.myeasytv.xyz:8000/live/100/100/13906.ts
+#EXTINF:-1,Sky Sports F1
+http://iptv.myeasytv.xyz:8000/live/100/100/13848.ts
+#EXTINF:-1,Sky Sports Mix
+http://iptv.myeasytv.xyz:8000/live/100/100/13718.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/14391.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17508.ts
+#EXTINF:-1,BT SPORTS 3 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/16934.ts
+#EXTINF:-1,UK:BT Sport 1
+http://iptv.myeasytv.xyz:8000/live/100/100/13846.ts
+#EXTINF:-1,UK:BT Sport 2
+http://iptv.myeasytv.xyz:8000/live/100/100/13809.ts
+#EXTINF:-1,UK:BT Sport 3
+http://iptv.myeasytv.xyz:8000/live/100/100/13877.ts
+#EXTINF:-1,UK:Eurosport 2
+http://iptv.myeasytv.xyz:8000/live/100/100/13881.ts
+#EXTINF:-1,Box Nation
+http://iptv.myeasytv.xyz:8000/live/100/100/16943.ts
+#EXTINF:-1,Eir Sport 1
+http://iptv.myeasytv.xyz:8000/live/100/100/16932.ts
+#EXTINF:-1,EIR SPORTS 1 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/16931.ts
+#EXTINF:-1,EIR SPORTS 2 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/16930.ts
+#EXTINF:-1,EIR SPORTS 2 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16929.ts
+#EXTINF:-1,MUFC TV SD
+http://iptv.myeasytv.xyz:8000/live/100/100/16926.ts
+#EXTINF:-1,MUTV FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16925.ts
+#EXTINF:-1,PREMIER SPORTS FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16924.ts
+#EXTINF:-1,Racing UK SD
+http://iptv.myeasytv.xyz:8000/live/100/100/16923.ts
+#EXTINF:-1,UK:eir Sport 1
+http://iptv.myeasytv.xyz:8000/live/100/100/13985.ts
+#EXTINF:-1,UK:eirSport 2 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/13940.ts
+#EXTINF:-1,Sky Movies Modern Greats
+http://iptv.myeasytv.xyz:8000/live/100/100/13766.ts
+#EXTINF:-1,Sky Movies SciFi & Horror
+http://iptv.myeasytv.xyz:8000/live/100/100/13765.ts
+#EXTINF:-1,Sky Movies Showcase
+http://iptv.myeasytv.xyz:8000/live/100/100/13764.ts
+#EXTINF:-1,Sky Action Local
+http://iptv.myeasytv.xyz:8000/live/100/100/13817.ts
+#EXTINF:-1,Sky Comedy Local
+http://iptv.myeasytv.xyz:8000/live/100/100/13841.ts
+#EXTINF:-1,Sky Premiere Local
+http://iptv.myeasytv.xyz:8000/live/100/100/13920.ts
+#EXTINF:-1,Sky Movies Family 
+http://iptv.myeasytv.xyz:8000/live/100/100/13642.ts
+#EXTINF:-1,Sky Movies Action local
+http://iptv.myeasytv.xyz:8000/live/100/100/13570.ts
+#EXTINF:-1,Sky Cinema Action HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17256.ts
+#EXTINF:-1,Sky Cinema Premiere HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17254.ts
+#EXTINF:-1,Sky Cinema Sci Fi Hor HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17253.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17252.ts
+#EXTINF:-1,Sky Cinema Thriller HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17251.ts
+#EXTINF:-1,Discovery History
+http://iptv.myeasytv.xyz:8000/live/100/100/17659.ts
+#EXTINF:-1,Discovery Shed
+http://iptv.myeasytv.xyz:8000/live/100/100/17657.ts
+#EXTINF:-1,Discovery Science
+http://iptv.myeasytv.xyz:8000/live/100/100/17668.ts
+#EXTINF:-1,Discovery Turbo
+http://iptv.myeasytv.xyz:8000/live/100/100/17669.ts
+#EXTINF:-1,History Channel
+http://iptv.myeasytv.xyz:8000/live/100/100/17679.ts
+#EXTINF:-1,Investigation Discovery
+http://iptv.myeasytv.xyz:8000/live/100/100/17678.ts
+#EXTINF:-1,Animal Planet
+http://iptv.myeasytv.xyz:8000/live/100/100/17662.ts
+#EXTINF:-1,Crime Investigation
+http://iptv.myeasytv.xyz:8000/live/100/100/17661.ts
+#EXTINF:-1,Discovery
+http://iptv.myeasytv.xyz:8000/live/100/100/17660.ts
+#EXTINF:-1,Nat Geo
+http://iptv.myeasytv.xyz:8000/live/100/100/17652.ts
+#EXTINF:-1,Nat Geo Wild
+http://iptv.myeasytv.xyz:8000/live/100/100/17651.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.myeasytv.xyz:8000/live/100/100/19809.ts
+#EXTINF:-1,Animal Planet HD
+http://iptv.myeasytv.xyz:8000/live/100/100/19808.ts
+#EXTINF:-1,National Geographic HD
+http://iptv.myeasytv.xyz:8000/live/100/100/19807.ts
+#EXTINF:-1,*BBC News HD
+http://iptv.myeasytv.xyz:8000/live/100/100/15365.ts
+#EXTINF:-1,Movies 24
+http://iptv.myeasytv.xyz:8000/live/100/100/13767.ts
+#EXTINF:-1,Movies4men +1
+http://iptv.myeasytv.xyz:8000/live/100/100/13672.ts
+#EXTINF:-1,UK:MTV +1
+http://iptv.myeasytv.xyz:8000/live/100/100/13652.ts
+#EXTINF:-1,UK:Racing UK HD
+http://iptv.myeasytv.xyz:8000/live/100/100/13737.ts
+#EXTINF:-1,UK:Eurosport 2 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/13769.ts
+#EXTINF:-1,UK:FOX News
+http://iptv.myeasytv.xyz:8000/live/100/100/13902.ts
+#EXTINF:-1,Movies 4 Men
+http://iptv.myeasytv.xyz:8000/live/100/100/13988.ts
+#EXTINF:-1,UK:MTV
+http://iptv.myeasytv.xyz:8000/live/100/100/13810.ts
+#EXTINF:-1,UK:MTV BASE
+http://iptv.myeasytv.xyz:8000/live/100/100/13973.ts
+#EXTINF:-1,UK:MTV CLASSIC
+http://iptv.myeasytv.xyz:8000/live/100/100/13978.ts
+#EXTINF:-1,UK:MTV DANCE
+http://iptv.myeasytv.xyz:8000/live/100/100/13901.ts
+#EXTINF:-1,UK:MTV HITS
+http://iptv.myeasytv.xyz:8000/live/100/100/13847.ts
+#EXTINF:-1,UK:MTV ROCKS
+http://iptv.myeasytv.xyz:8000/live/100/100/13980.ts
+#EXTINF:-1,UK:Premier Sports HD
+http://iptv.myeasytv.xyz:8000/live/100/100/13955.ts
+#EXTINF:-1,UK:Racing UK
+http://iptv.myeasytv.xyz:8000/live/100/100/13873.ts
+#EXTINF:-1,UK:RT News Now
+http://iptv.myeasytv.xyz:8000/live/100/100/13864.ts
+#EXTINF:-1,UK:UTV
+http://iptv.myeasytv.xyz:8000/live/100/100/13903.ts
+#EXTINF:-1,UK:UTV HD
+http://iptv.myeasytv.xyz:8000/live/100/100/13808.ts
+#EXTINF:-1,UK:Eurosport 1 SD
+http://iptv.myeasytv.xyz:8000/live/100/100/13581.ts
+#EXTINF:-1,UK:FOXNews
+http://iptv.myeasytv.xyz:8000/live/100/100/13578.ts
+#EXTINF:-1,UK:Premier Sports HD
+http://iptv.myeasytv.xyz:8000/live/100/100/13582.ts
+#EXTINF:-1,UK:CNBC News
+http://iptv.myeasytv.xyz:8000/live/100/100/13587.ts
+#EXTINF:-1,UK:BBC News
+http://iptv.myeasytv.xyz:8000/live/100/100/13850.ts
+#EXTINF:-1,UK:BBC News HD
+http://iptv.myeasytv.xyz:8000/live/100/100/13849.ts
+#EXTINF:-1,UK:At The Races SD
+http://iptv.myeasytv.xyz:8000/live/100/100/13736.ts
+#EXTINF:-1,UK:BBC 1 NI SD
+http://iptv.myeasytv.xyz:8000/live/100/100/13705.ts
+#EXTINF:-1,UK:Arise News
+http://iptv.myeasytv.xyz:8000/live/100/100/13597.ts
+#EXTINF:-1,UK:CGTN News
+http://iptv.myeasytv.xyz:8000/live/100/100/13589.ts
+#EXTINF:-1,Racing UK HD
+http://iptv.myeasytv.xyz:8000/live/100/100/15122.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://iptv.myeasytv.xyz:8000/live/100/100/15118.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://iptv.myeasytv.xyz:8000/live/100/100/15116.ts
+#EXTINF:-1,Sky Action
+http://iptv.myeasytv.xyz:8000/live/100/100/15947.ts
+#EXTINF:-1,Sky Comedy
+http://iptv.myeasytv.xyz:8000/live/100/100/15944.ts
+#EXTINF:-1,Sky Crime Thriller
+http://iptv.myeasytv.xyz:8000/live/100/100/15943.ts
+#EXTINF:-1,Sky Disney
+http://iptv.myeasytv.xyz:8000/live/100/100/15942.ts
+#EXTINF:-1,Sky Family hd
+http://iptv.myeasytv.xyz:8000/live/100/100/15941.ts
+#EXTINF:-1,Sky Premiere
+http://iptv.myeasytv.xyz:8000/live/100/100/15937.ts
+#EXTINF:-1,Sky Select
+http://iptv.myeasytv.xyz:8000/live/100/100/15936.ts
+#EXTINF:-1,BT SPORT 2HD
+http://iptv.myeasytv.xyz:8000/live/100/100/16679.ts
+#EXTINF:-1,BT SPORT 3HD
+http://iptv.myeasytv.xyz:8000/live/100/100/16678.ts
+#EXTINF:-1,Racing UK
+http://iptv.myeasytv.xyz:8000/live/100/100/16694.ts
+#EXTINF:-1,UK:CHANNEL 4 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16690.ts
+#EXTINF:-1,UK:CHANNEL 5 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16689.ts
+#EXTINF:-1,UK:ITV 1 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16683.ts
+#EXTINF:-1,UK:ITV 2 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16682.ts
+#EXTINF:-1,UK:ITV 3 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16681.ts
+#EXTINF:-1,UK:ITV 4 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16680.ts
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/16928.ts
+#EXTINF:-1,RACING UK FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/16922.ts
+#EXTINF:-1,EirSport1
+http://iptv.myeasytv.xyz:8000/live/100/100/16911.ts
+#EXTINF:-1,BT ESPN
+http://iptv.myeasytv.xyz:8000/live/100/100/16910.ts
+#EXTINF:-1,Sky Movie Modern Greats HD
+http://iptv.myeasytv.xyz:8000/live/100/100/15324.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://iptv.myeasytv.xyz:8000/live/100/100/15152.ts
+#EXTINF:-1,Eir Sport 1 SD
+http://iptv.myeasytv.xyz:8000/live/100/100/15145.ts
+#EXTINF:-1,Eir Sport 2 SD
+http://iptv.myeasytv.xyz:8000/live/100/100/15144.ts
+#EXTINF:-1,SKY SPORTS NEWS HQ HD LOCAL
+http://iptv.myeasytv.xyz:8000/live/100/100/17348.ts
+#EXTINF:-1,BBC News HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17615.ts
+#EXTINF:-1,UK - BBC 1 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17626.ts
+#EXTINF:-1,UK - BBC 1 NORTHERN IRELAND FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17625.ts
+#EXTINF:-1,UK - BBC 2 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17624.ts
+#EXTINF:-1,UK - BBC 3 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17623.ts
+#EXTINF:-1,UK - CHANNEL 4 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17622.ts
+#EXTINF:-1,UK - CHANNEL 5 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17621.ts
+#EXTINF:-1,UK - ITV 1 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17619.ts
+#EXTINF:-1,UK - ITV 2 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17618.ts
+#EXTINF:-1,UK - ITV 3 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17617.ts
+#EXTINF:-1,UK - ITV 4 FHD
+http://iptv.myeasytv.xyz:8000/live/100/100/17616.ts
+#EXTINF:-1,UK:BBC 1 SD
+http://iptv.myeasytv.xyz:8000/live/100/100/17545.ts
+#EXTINF:-1,UK:BBC 4 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17548.ts
+#EXTINF:-1,UK:BBC One HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17547.ts
+#EXTINF:-1,UK:BBC One Lon
+http://iptv.myeasytv.xyz:8000/live/100/100/17546.ts
+#EXTINF:-1,UK:BBC Two Eng
+http://iptv.myeasytv.xyz:8000/live/100/100/17542.ts
+#EXTINF:-1,UK:BBC Two HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17541.ts
+#EXTINF:-1,UK:CBS Action
+http://iptv.myeasytv.xyz:8000/live/100/100/17536.ts
+#EXTINF:-1,UK:CBS Drama
+http://iptv.myeasytv.xyz:8000/live/100/100/17535.ts
+#EXTINF:-1,UK:Channel 4
+http://iptv.myeasytv.xyz:8000/live/100/100/17553.ts
+#EXTINF:-1,UK:Channel 4 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17552.ts
+#EXTINF:-1,UK:Channel 5
+http://iptv.myeasytv.xyz:8000/live/100/100/17551.ts
+#EXTINF:-1,UK:Channel 5 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17550.ts
+#EXTINF:-1,UK:Drama
+http://iptv.myeasytv.xyz:8000/live/100/100/17557.ts
+#EXTINF:-1,UK:Eden
+http://iptv.myeasytv.xyz:8000/live/100/100/17613.ts
+#EXTINF:-1,UK:GOLD
+http://iptv.myeasytv.xyz:8000/live/100/100/17599.ts
+#EXTINF:-1,UK:ITV
+http://iptv.myeasytv.xyz:8000/live/100/100/17597.ts
+#EXTINF:-1,UK:ITV 2 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17596.ts
+#EXTINF:-1,UK:Itv HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17594.ts
+#EXTINF:-1,UK:ITV2
+http://iptv.myeasytv.xyz:8000/live/100/100/17593.ts
+#EXTINF:-1,UK:ITV3
+http://iptv.myeasytv.xyz:8000/live/100/100/17592.ts
+#EXTINF:-1,UK:ITV4
+http://iptv.myeasytv.xyz:8000/live/100/100/17591.ts
+#EXTINF:-1,UK:Pick
+http://iptv.myeasytv.xyz:8000/live/100/100/17584.ts
+#EXTINF:-1,UK:Pick  1
+http://iptv.myeasytv.xyz:8000/live/100/100/17611.ts
+#EXTINF:-1,UK:Pick TV
+http://iptv.myeasytv.xyz:8000/live/100/100/17610.ts
+#EXTINF:-1,UK:S4C
+http://iptv.myeasytv.xyz:8000/live/100/100/17582.ts
+#EXTINF:-1,UK:S4C HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17581.ts
+#EXTINF:-1,UK:Sky 1
+http://iptv.myeasytv.xyz:8000/live/100/100/17579.ts
+#EXTINF:-1,UK:Sky 2
+http://iptv.myeasytv.xyz:8000/live/100/100/17578.ts
+#EXTINF:-1,UK:Sky Arts
+http://iptv.myeasytv.xyz:8000/live/100/100/17577.ts
+#EXTINF:-1,UK:Sky Atlantic
+http://iptv.myeasytv.xyz:8000/live/100/100/17576.ts
+#EXTINF:-1,UK:Sky Living
+http://iptv.myeasytv.xyz:8000/live/100/100/17575.ts
+#EXTINF:-1,UK:Spike
+http://iptv.myeasytv.xyz:8000/live/100/100/17574.ts
+#EXTINF:-1,UK:Syfy
+http://iptv.myeasytv.xyz:8000/live/100/100/17614.ts
+#EXTINF:-1,UK:SyFy HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17608.ts
+#EXTINF:-1,UK:TLC
+http://iptv.myeasytv.xyz:8000/live/100/100/17570.ts
+#EXTINF:-1,UK:TLC  1
+http://iptv.myeasytv.xyz:8000/live/100/100/17607.ts
+#EXTINF:-1,UK:TLC  2
+http://iptv.myeasytv.xyz:8000/live/100/100/17606.ts
+#EXTINF:-1,UK:tru TV  1
+http://iptv.myeasytv.xyz:8000/live/100/100/17605.ts
+#EXTINF:-1,UK:Watch
+http://iptv.myeasytv.xyz:8000/live/100/100/17563.ts
+#EXTINF:-1,Baby TV
+http://iptv.myeasytv.xyz:8000/live/100/100/17689.ts
+#EXTINF:-1,Disney HD
+http://iptv.myeasytv.xyz:8000/live/100/100/17703.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.myeasytv.xyz:8000/live/100/100/17690.ts
+#EXTINF:-1,CBBC
+http://iptv.myeasytv.xyz:8000/live/100/100/17688.ts
+#EXTINF:-1,Disney Chnl
+http://iptv.myeasytv.xyz:8000/live/100/100/17691.ts
+#EXTINF:-1,UK:Nick Jr
+http://iptv.myeasytv.xyz:8000/live/100/100/17699.ts
+#EXTINF:-1,Tiny Pop
+http://iptv.myeasytv.xyz:8000/live/100/100/17694.ts
+#EXTINF:-1,Disney Junior
+http://iptv.myeasytv.xyz:8000/live/100/100/17687.ts
+#EXTINF:-1,Disney XD
+http://iptv.myeasytv.xyz:8000/live/100/100/17686.ts
+#EXTINF:-1,Nick Jr
+http://iptv.myeasytv.xyz:8000/live/100/100/17685.ts
+#EXTINF:-1,Nickelodeon
+http://iptv.myeasytv.xyz:8000/live/100/100/17684.ts
+#EXTINF:-1,Nicktoons
+http://iptv.myeasytv.xyz:8000/live/100/100/17683.ts
+#EXTINF:-1,Aaj Tak
+http://iptv.myeasytv.xyz:8000/live/100/100/19805.ts
+#EXTINF:-1,ABP News
+http://iptv.myeasytv.xyz:8000/live/100/100/19804.ts
+#EXTINF:-1,And TV
+http://iptv.myeasytv.xyz:8000/live/100/100/19803.ts
+#EXTINF:-1,And TV HD
+http://iptv.myeasytv.xyz:8000/live/100/100/19802.ts
+#EXTINF:-1,B4U Aflam
+http://iptv.myeasytv.xyz:8000/live/100/100/19800.ts
+#EXTINF:-1,B4U Movies
+http://iptv.myeasytv.xyz:8000/live/100/100/19799.ts
+#EXTINF:-1,B4U Music
+http://iptv.myeasytv.xyz:8000/live/100/100/19798.ts
+#EXTINF:-1,B4U PLUS
+http://iptv.myeasytv.xyz:8000/live/100/100/19797.ts
+#EXTINF:-1,BritAsia
+http://iptv.myeasytv.xyz:8000/live/100/100/19796.ts
+#EXTINF:-1,Colors
+http://iptv.myeasytv.xyz:8000/live/100/100/19795.ts
+#EXTINF:-1,Life OK
+http://iptv.myeasytv.xyz:8000/live/100/100/19793.ts
+#EXTINF:-1,Rishtey
+http://iptv.myeasytv.xyz:8000/live/100/100/19791.ts
+#EXTINF:-1,Sab TV (SET)
+http://iptv.myeasytv.xyz:8000/live/100/100/19790.ts
+#EXTINF:-1,SET Max
+http://iptv.myeasytv.xyz:8000/live/100/100/19789.ts
+#EXTINF:-1,Sony Entertainment (SET)
+http://iptv.myeasytv.xyz:8000/live/100/100/19788.ts
+#EXTINF:-1,Star Gold
+http://iptv.myeasytv.xyz:8000/live/100/100/19787.ts
+#EXTINF:-1,Star Jalsha
+http://iptv.myeasytv.xyz:8000/live/100/100/19786.ts
+#EXTINF:-1,Star Plus
+http://iptv.myeasytv.xyz:8000/live/100/100/19785.ts
+#EXTINF:-1,Venus TV
+http://iptv.myeasytv.xyz:8000/live/100/100/19784.ts
+#EXTINF:-1,Zee Cinema
+http://iptv.myeasytv.xyz:8000/live/100/100/19783.ts
+#EXTINF:-1,Zee Punjabi
+http://iptv.myeasytv.xyz:8000/live/100/100/19782.ts
+#EXTINF:-1,Zee TV
+http://iptv.myeasytv.xyz:8000/live/100/100/19781.ts
+#EXTINF:-1,Zing
+http://iptv.myeasytv.xyz:8000/live/100/100/19780.ts
+#EXTINF:-1,Channel AKA
+http://iptv.myeasytv.xyz:8000/live/100/100/19813.ts
+#EXTINF:-1,Sky News
+http://iptv.myeasytv.xyz:8000/live/100/100/19812.ts
+#EXTINF:-1,Cnn News
+http://iptv.myeasytv.xyz:8000/live/100/100/19814.ts
+#EXTINF:-1,Boomerang
+http://iptv.myeasytv.xyz:8000/live/100/100/20100.ts
+#EXTINF:-1,Heart TV UK
+http://iptv.myeasytv.xyz:8000/live/100/100/20104.ts
+#EXTINF:-1,MTV Base HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20115.ts
+#EXTINF:-1,MTV Base UK
+http://iptv.myeasytv.xyz:8000/live/100/100/20114.ts
+#EXTINF:-1,MTV Classic
+http://iptv.myeasytv.xyz:8000/live/100/100/20113.ts
+#EXTINF:-1,MTV Dance
+http://iptv.myeasytv.xyz:8000/live/100/100/20112.ts
+#EXTINF:-1,MTV Dance HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20111.ts
+#EXTINF:-1,Mtv HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20110.ts
+#EXTINF:-1,MTV Hits HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20109.ts
+#EXTINF:-1,MTV Hits!
+http://iptv.myeasytv.xyz:8000/live/100/100/20108.ts
+#EXTINF:-1,MTV Music UK
+http://iptv.myeasytv.xyz:8000/live/100/100/20116.ts
+#EXTINF:-1,MTV Rocks HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20107.ts
+#EXTINF:-1,MTV Rocks UK
+http://iptv.myeasytv.xyz:8000/live/100/100/20106.ts
+#EXTINF:-1,STARZ
+http://iptv.myeasytv.xyz:8000/live/100/100/20103.ts
+#EXTINF:-1,UK : MTV CLASSIC
+http://iptv.myeasytv.xyz:8000/live/100/100/20105.ts
+#EXTINF:-1,UK : THE VAULT
+http://iptv.myeasytv.xyz:8000/live/100/100/20101.ts
+#EXTINF:-1,UK : VH1
+http://iptv.myeasytv.xyz:8000/live/100/100/20102.ts
+#EXTINF:-1,UK SPECIAL : SPIKE
+http://iptv.myeasytv.xyz:8000/live/100/100/20176.ts
+#EXTINF:-1,UK SPECIAL: Yesterday
+http://iptv.myeasytv.xyz:8000/live/100/100/20175.ts
+#EXTINF:-1,UK:  Sky Comedy HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20140.ts
+#EXTINF:-1,UK:  Sky Discovery HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20139.ts
+#EXTINF:-1,UK:  SKY MOVIES ACTION & Adventure HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20138.ts
+#EXTINF:-1,UK: Discovery Channel HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20173.ts
+#EXTINF:-1,UK: Discovery HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20172.ts
+#EXTINF:-1,UK: HBO Comedy HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20171.ts
+#EXTINF:-1,UK: HITS HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20170.ts
+#EXTINF:-1,UK: ID HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20169.ts
+#EXTINF:-1,UK: Premiere Sport HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20167.ts
+#EXTINF:-1,UK: SKY ACTION HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20137.ts
+#EXTINF:-1,UK: SKY Atlantic HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20165.ts
+#EXTINF:-1,UK: Sky Atlantic HD.
+http://iptv.myeasytv.xyz:8000/live/100/100/20164.ts
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://iptv.myeasytv.xyz:8000/live/100/100/20136.ts
+#EXTINF:-1,UK: Sky Living
+http://iptv.myeasytv.xyz:8000/live/100/100/20163.ts
+#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20135.ts
+#EXTINF:-1,UK: Sky Movies Greats HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20133.ts
+#EXTINF:-1,UK: Sky Movies Modern Great HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20132.ts
+#EXTINF:-1,UK: SKY MOVIES PREMIERE   HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20131.ts
+#EXTINF:-1,UK: Sky One HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20162.ts
+#EXTINF:-1,UK: SKY SELECT HD
+http://iptv.myeasytv.xyz:8000/live/100/100/20130.ts
+#EXTINF:-1,UK: Sky Sports News HQ.
+http://iptv.myeasytv.xyz:8000/live/100/100/20161.ts
+#EXTINF:-1,CHELSEA TV
+http://iptv.myeasytv.xyz:8000/live/100/100/22127.ts
+#EXTINF:-1,LFC TV
+http://iptv.myeasytv.xyz:8000/live/100/100/22126.ts
+#EXTINF:-1,UFC (24-7)
+http://iptv.myeasytv.xyz:8000/live/100/100/22128.ts
+#EXTINF:-1,RANGERS TV (LIVE ONLY ON MATCHDAY)
+http://iptv.myeasytv.xyz:8000/live/100/100/22749.ts
+#EXTINF:-1,BEIN AMC MOVIES
+http://iptv.myeasytv.xyz:8000/live/100/100/22843.ts
+#EXTINF:-1,BEIN BABY TV
+http://iptv.myeasytv.xyz:8000/live/100/100/22842.ts
+#EXTINF:-1,BEIN BARAEEM
+http://iptv.myeasytv.xyz:8000/live/100/100/22841.ts
+#EXTINF:-1,BEIN BOOMERANG
+http://iptv.myeasytv.xyz:8000/live/100/100/22802.ts
+#EXTINF:-1,BEIN BOX OFFICE 1
+http://iptv.myeasytv.xyz:8000/live/100/100/22840.ts
+#EXTINF:-1,BEIN BOX OFFICE 2
+http://iptv.myeasytv.xyz:8000/live/100/100/22839.ts
+#EXTINF:-1,BEIN BOX OFFICE 3
+http://iptv.myeasytv.xyz:8000/live/100/100/22838.ts
+#EXTINF:-1,BEIN DMAX
+http://iptv.myeasytv.xyz:8000/live/100/100/22837.ts
+#EXTINF:-1,BEIN DREAM WORKS
+http://iptv.myeasytv.xyz:8000/live/100/100/22836.ts
+#EXTINF:-1,BEIN JUNIOR
+http://iptv.myeasytv.xyz:8000/live/100/100/22835.ts
+#EXTINF:-1,BEIN MOVIES 1
+http://iptv.myeasytv.xyz:8000/live/100/100/22834.ts
+#EXTINF:-1,BEIN MOVIES 2
+http://iptv.myeasytv.xyz:8000/live/100/100/22833.ts
+#EXTINF:-1,BEIN MOVIES 3
+http://iptv.myeasytv.xyz:8000/live/100/100/22832.ts
+#EXTINF:-1,BEIN MOVIES 4
+http://iptv.myeasytv.xyz:8000/live/100/100/22831.ts
+#EXTINF:-1,BEIN SERIES
+http://iptv.myeasytv.xyz:8000/live/100/100/22830.ts
+#EXTINF:-1,BOX OFFICE 2 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22799.ts
+#EXTINF:-1,BOX OFFICE 3 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22798.ts
+#EXTINF:-1,BOX OFFICE 3D
+http://iptv.myeasytv.xyz:8000/live/100/100/22801.ts
+#EXTINF:-1,BOX OFFICE 4 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22797.ts
+#EXTINF:-1,BOX OFFICE HD 1
+http://iptv.myeasytv.xyz:8000/live/100/100/22800.ts
+#EXTINF:-1,EPL 1 ( MATCH TIME )
+http://iptv.myeasytv.xyz:8000/live/100/100/22779.ts
+#EXTINF:-1,EPL 2 ( MATCH TIME )
+http://iptv.myeasytv.xyz:8000/live/100/100/22778.ts
+#EXTINF:-1,EPL 3 ( MATCH TIME )
+http://iptv.myeasytv.xyz:8000/live/100/100/22777.ts
+#EXTINF:-1,EPL 4 ( MATCH TIME )
+http://iptv.myeasytv.xyz:8000/live/100/100/22776.ts
+#EXTINF:-1,EPL 5 ( MATCH TIME )
+http://iptv.myeasytv.xyz:8000/live/100/100/22775.ts
+#EXTINF:-1,EPL 6 ( MATCH TIME )
+http://iptv.myeasytv.xyz:8000/live/100/100/22774.ts
+#EXTINF:-1,EPL 7 ( MATCH TIME )
+http://iptv.myeasytv.xyz:8000/live/100/100/22773.ts
+#EXTINF:-1,EPL 8 ( MATCH TIME )
+http://iptv.myeasytv.xyz:8000/live/100/100/22772.ts
+#EXTINF:-1,SEC NETWORK HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22756.ts
+#EXTINF:-1,SETANTA_SPORTS
+http://iptv.myeasytv.xyz:8000/live/100/100/22755.ts
+#EXTINF:-1,SportTV 1 Full HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22771.ts
+#EXTINF:-1,SportTV 2 Full HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22770.ts
+#EXTINF:-1,SportTV 3 Full HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22769.ts
+#EXTINF:-1,SportTV 4 Full HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22768.ts
+#EXTINF:-1,SportTV 5 Full HD
+http://iptv.myeasytv.xyz:8000/live/100/100/22767.ts
+#EXTINF:-1,USA:AFN SPORTS
+http://iptv.myeasytv.xyz:8000/live/100/100/22766.ts
+#EXTINF:-1,USA:AFN SPORTS 2
+http://iptv.myeasytv.xyz:8000/live/100/100/22765.ts
+#EXTINF:-1,.UK_=_Absolute_00s
+http://iptv.myeasytv.xyz:8000/live/100/100/23322.ts
+#EXTINF:-1,.UK_=_Absolute_60s
+http://iptv.myeasytv.xyz:8000/live/100/100/23318.ts
+#EXTINF:-1,.UK_=_Absolute_70s
+http://iptv.myeasytv.xyz:8000/live/100/100/23319.ts
+#EXTINF:-1,.UK_=_Absolute_80s
+http://iptv.myeasytv.xyz:8000/live/100/100/23320.ts
+#EXTINF:-1,.UK_=_Absolute_90s
+http://iptv.myeasytv.xyz:8000/live/100/100/23321.ts
+#EXTINF:-1,.UK_=_Absolute_Classic_Rock
+http://iptv.myeasytv.xyz:8000/live/100/100/23336.ts
+#EXTINF:-1,.UK_=_Absolute_Radio
+http://iptv.myeasytv.xyz:8000/live/100/100/23296.ts
+#EXTINF:-1,.UK_=_Bang_Radio_103.6FM
+http://iptv.myeasytv.xyz:8000/live/100/100/23287.ts
+#EXTINF:-1,.UK_=_BBC_1
+http://iptv.myeasytv.xyz:8000/live/100/100/23333.ts
+#EXTINF:-1,.UK_=_BBC_1_Xtra
+http://iptv.myeasytv.xyz:8000/live/100/100/23327.ts
+#EXTINF:-1,.UK_=_BBC_2
+http://iptv.myeasytv.xyz:8000/live/100/100/23332.ts
+#EXTINF:-1,.UK_=_BBC_3
+http://iptv.myeasytv.xyz:8000/live/100/100/23331.ts
+#EXTINF:-1,.UK_=_BBC_4
+http://iptv.myeasytv.xyz:8000/live/100/100/23330.ts
+#EXTINF:-1,.UK_=_BBC_5
+http://iptv.myeasytv.xyz:8000/live/100/100/23329.ts
+#EXTINF:-1,.UK_=_BBC_6
+http://iptv.myeasytv.xyz:8000/live/100/100/23328.ts
+#EXTINF:-1,.UK_=_BBC_Scotland
+http://iptv.myeasytv.xyz:8000/live/100/100/23323.ts
+#EXTINF:-1,.UK_=_BBC_Wales
+http://iptv.myeasytv.xyz:8000/live/100/100/23324.ts
+#EXTINF:-1,.UK_=_BBC_World_Service
+http://iptv.myeasytv.xyz:8000/live/100/100/23291.ts
+#EXTINF:-1,.UK_=_Bridge_106.3_FM_Wales
+http://iptv.myeasytv.xyz:8000/live/100/100/23285.ts
+#EXTINF:-1,.UK_=_Capital
+http://iptv.myeasytv.xyz:8000/live/100/100/23317.ts
+#EXTINF:-1,.UK_=_Capital_Xtra
+http://iptv.myeasytv.xyz:8000/live/100/100/23288.ts
+#EXTINF:-1,.UK_=_Classic_FM
+http://iptv.myeasytv.xyz:8000/live/100/100/23289.ts
+#EXTINF:-1,.UK_=_Cool
+http://iptv.myeasytv.xyz:8000/live/100/100/23307.ts
+#EXTINF:-1,.UK_=_Gold
+http://iptv.myeasytv.xyz:8000/live/100/100/23302.ts
+#EXTINF:-1,.UK_=_Heart
+http://iptv.myeasytv.xyz:8000/live/100/100/23314.ts
+#EXTINF:-1,.UK_=_Jazz_FM
+http://iptv.myeasytv.xyz:8000/live/100/100/23290.ts
+#EXTINF:-1,.UK_=_Kiss
+http://iptv.myeasytv.xyz:8000/live/100/100/23313.ts
+#EXTINF:-1,.UK_=_Kisstory
+http://iptv.myeasytv.xyz:8000/live/100/100/23334.ts
+#EXTINF:-1,.UK_=_LBC
+http://iptv.myeasytv.xyz:8000/live/100/100/23312.ts
+#EXTINF:-1,.UK_=_Magic
+http://iptv.myeasytv.xyz:8000/live/100/100/23311.ts
+#EXTINF:-1,.UK_=_Manx_Radio
+http://iptv.myeasytv.xyz:8000/live/100/100/23293.ts
+#EXTINF:-1,.UK_=_Nation_Radio
+http://iptv.myeasytv.xyz:8000/live/100/100/23301.ts
+#EXTINF:-1,.UK_=_Planet_Rock
+http://iptv.myeasytv.xyz:8000/live/100/100/23292.ts
+#EXTINF:-1,.UK_=_Smooth
+http://iptv.myeasytv.xyz:8000/live/100/100/23310.ts
+#EXTINF:-1,.UK_=_Sunrise_Radio
+http://iptv.myeasytv.xyz:8000/live/100/100/23286.ts
+#EXTINF:-1,.UK_=_TalkSport.
+http://iptv.myeasytv.xyz:8000/live/100/100/23309.ts
+#EXTINF:-1,.UK_=_The_Arrow_All_Rock
+http://iptv.myeasytv.xyz:8000/live/100/100/23295.ts
+#EXTINF:-1,.UK_=_The_Breeze_FM
+http://iptv.myeasytv.xyz:8000/live/100/100/23294.ts
+#EXTINF:-1,.UK_=_The_Wave_96.4_FM_Wales
+http://iptv.myeasytv.xyz:8000/live/100/100/23284.ts
+#EXTINF:-1,.UK_=_Virgin
+http://iptv.myeasytv.xyz:8000/live/100/100/23308.ts
+#EXTINF:-1,E4 HD
+http://iptv.myeasytv.xyz:8000/live/100/100/27333.ts
+#EXTINF:-1,Film 4
+http://iptv.myeasytv.xyz:8000/live/100/100/27334.ts
+#EXTINF:-1,UK123:beIN_MAX_3_HD_(MATCH_TIME)
+http://iptv.myeasytv.xyz:8000/live/100/100/29327.ts
+#EXTINF:-1,UK123:beIN_Sports_1_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29326.ts
+#EXTINF:-1,UK123:beIN_SPORTS_10_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29325.ts
+#EXTINF:-1,UK123:beIN_SPORTS_11_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29324.ts
+#EXTINF:-1,UK123:beIN_SPORTS_12_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29323.ts
+#EXTINF:-1,UK123:beIN_Sports_2_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29322.ts
+#EXTINF:-1,UK123:beIN_Sports_3_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29321.ts
+#EXTINF:-1,UK123:beIN_SPORTS_4_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29320.ts
+#EXTINF:-1,UK123:beIN_SPORTS_5_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29319.ts
+#EXTINF:-1,UK123:beIN_SPORTS_6_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29318.ts
+#EXTINF:-1,UK123:beIN_SPORTS_7_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29317.ts
+#EXTINF:-1,UK123:beIN_SPORTS_8_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29316.ts
+#EXTINF:-1,UK123:beIN_SPORTS_9_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29315.ts
+#EXTINF:-1,UK123:beIN_Sports_ES_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29314.ts
+#EXTINF:-1,UK123:beIN_Sports_LIGA_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29313.ts
+#EXTINF:-1,UK123:beIN_Sports_Max_10_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29312.ts
+#EXTINF:-1,UK123:beIN_Sports_max_4_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29311.ts
+#EXTINF:-1,UK123:beIN_Sports_max_5_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29310.ts
+#EXTINF:-1,UK123:beIN_Sports_max_6_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29309.ts
+#EXTINF:-1,UK123:beIN_Sports_max_7_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29308.ts
+#EXTINF:-1,UK123:beIN_Sports_max_8_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29307.ts
+#EXTINF:-1,UK123:beIN_Sports_max_9_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29306.ts
+#EXTINF:-1,UK123:beIN_SPORTS_News_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29305.ts
+#EXTINF:-1,UK123:beIN_Sports_USA_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29304.ts
+#EXTINF:-1,UK123:beINSPORT_1_HD.
+http://iptv.myeasytv.xyz:8000/live/100/100/29303.ts
+#EXTINF:-1,UK123:beINSPORT_2_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29302.ts
+#EXTINF:-1,UK123:beINSPORT_3_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29301.ts
+#EXTINF:-1,UK123:beINSPORT_4_HD
+http://iptv.myeasytv.xyz:8000/live/100/100/29300.ts
+#EXTINF:-1,UK123:beIN_MAX_1_HD_(MATCH_TIME)
+http://iptv.myeasytv.xyz:8000/live/100/100/29329.ts
+#EXTINF:-1,UK123:beIN_MAX_2_HD_(MATCH_TIME)
+http://iptv.myeasytv.xyz:8000/live/100/100/29328.ts

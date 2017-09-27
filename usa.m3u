@@ -1,208 +1,123 @@
-#EXTINF:-1,US: A & E
-http://ip.cs4ip.com:8000/live/simon/simon/6411.ts
-#EXTINF:-1,US: ABC HD
-http://ip.cs4ip.com:8000/live/simon/simon/6410.ts
-#EXTINF:-1,US: ABC News HD
-http://ip.cs4ip.com:8000/live/simon/simon/6409.ts
+#EXTM3U
+#EXTINF:-1,USA: ESPN
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/152.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/153.ts
+#EXTINF:-1,USA: ESPN 3 TRE
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/154.ts
+#EXTINF:-1,USA: FOX SPORTS
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/156.ts
+#EXTINF:-1,USA: Tsn-Sport HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/164.ts
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/167.ts
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/168.ts
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/169.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/170.ts
+#EXTINF:-1,USA: AFN Sports
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/165.ts
+#EXTINF:-1,USA: HBO HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/160.ts
+#EXTINF:-1,USA: NAT GEO HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/159.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/155.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/158.ts
+#EXTINF:-1,USA: ANIMAL PLANET
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/157.ts
+#EXTINF:-1,USA: WWE Network
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-27-9/2ba3O8fywC/151.ts
+#EXTINF:-1,US:  HBO Zone HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27248.ts
+#EXTINF:-1,US: A and E TV HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27249.ts
+#EXTINF:-1,US: ABC
+http://no1dadicated.tk:8000/live/Mick/Mick/27250.ts
 #EXTINF:-1,US: AFN SPORTS
-http://ip.cs4ip.com:8000/live/simon/simon/6406.ts
+http://no1dadicated.tk:8000/live/Mick/Mick/27251.ts
 #EXTINF:-1,US: AFN SPORTS 2
-http://ip.cs4ip.com:8000/live/simon/simon/6405.ts
-#EXTINF:-1,US: Amazing Facts TV
-http://ip.cs4ip.com:8000/live/simon/simon/6404.ts
+http://no1dadicated.tk:8000/live/Mick/Mick/27252.ts
 #EXTINF:-1,US: AMC HD
-http://ip.cs4ip.com:8000/live/simon/simon/6403.ts
+http://no1dadicated.tk:8000/live/Mick/Mick/27253.ts
 #EXTINF:-1,US: Animal Planet
-http://ip.cs4ip.com:8000/live/simon/simon/6401.ts
+http://no1dadicated.tk:8000/live/Mick/Mick/27254.ts
 #EXTINF:-1,US: Bein Sports USA HD
-http://ip.cs4ip.com:8000/live/simon/simon/6400.ts
-#EXTINF:-1,US: Bloomberg
-http://ip.cs4ip.com:8000/live/simon/simon/6398.ts
-#EXTINF:-1,US: Bravo HD
-http://ip.cs4ip.com:8000/live/simon/simon/6396.ts
-#EXTINF:-1,US: BYU Sports TV HD
-http://ip.cs4ip.com:8000/live/simon/simon/6395.ts
-#EXTINF:-1,US: C-Span1
-http://ip.cs4ip.com:8000/live/simon/simon/6394.ts
-#EXTINF:-1,US: CBS HD
-http://ip.cs4ip.com:8000/live/simon/simon/6393.ts
-#EXTINF:-1,US: CBS News HD
-http://ip.cs4ip.com:8000/live/simon/simon/6392.ts
-#EXTINF:-1,US: CBSN HD
-http://ip.cs4ip.com:8000/live/simon/simon/6391.ts
-#EXTINF:-1,US: Cinemax ActionMax
-http://ip.cs4ip.com:8000/live/simon/simon/6390.ts
-#EXTINF:-1,US: Cinemax Moremax
-http://ip.cs4ip.com:8000/live/simon/simon/6389.ts
-#EXTINF:-1,US: Comedy Central HD
-http://ip.cs4ip.com:8000/live/simon/simon/6387.ts
-#EXTINF:-1,US: CW HD
-http://ip.cs4ip.com:8000/live/simon/simon/6385.ts
-#EXTINF:-1,US: Discovery Velocity
-http://ip.cs4ip.com:8000/live/simon/simon/6384.ts
-#EXTINF:-1,US: Diy Network
-http://ip.cs4ip.com:8000/live/simon/simon/6383.ts
-#EXTINF:-1,US: E!
-http://ip.cs4ip.com:8000/live/simon/simon/6382.ts
-#EXTINF:-1,US: ESPN 2 HD
-http://ip.cs4ip.com:8000/live/simon/simon/6381.ts
-#EXTINF:-1,US: ESPN HD
-http://ip.cs4ip.com:8000/live/simon/simon/6380.ts
-#EXTINF:-1,US: Fight Network
-http://ip.cs4ip.com:8000/live/simon/simon/6379.ts
-#EXTINF:-1,US: Fox 59 News
-http://ip.cs4ip.com:8000/live/simon/simon/6378.ts
-#EXTINF:-1,US: Fox HD
-http://ip.cs4ip.com:8000/live/simon/simon/6377.ts
-#EXTINF:-1,US: Fox Sport 1 HD
-http://ip.cs4ip.com:8000/live/simon/simon/6376.ts
-#EXTINF:-1,US: Fox Sport 2 HD
-http://ip.cs4ip.com:8000/live/simon/simon/6375.ts
-#EXTINF:-1,US: Freeform HD
-http://ip.cs4ip.com:8000/live/simon/simon/6373.ts
-#EXTINF:-1,US: FX HD
-http://ip.cs4ip.com:8000/live/simon/simon/6372.ts
-#EXTINF:-1,US: FXX HD
-http://ip.cs4ip.com:8000/live/simon/simon/6371.ts
-#EXTINF:-1,US: Global TV BC
-http://ip.cs4ip.com:8000/live/simon/simon/6370.ts
-#EXTINF:-1,US: Global TV Toronto
-http://ip.cs4ip.com:8000/live/simon/simon/6368.ts
-#EXTINF:-1,US: H2
-http://ip.cs4ip.com:8000/live/simon/simon/6367.ts
-#EXTINF:-1,US: Hallmark
-http://ip.cs4ip.com:8000/live/simon/simon/6366.ts
-#EXTINF:-1,US: HBO Comedy
-http://ip.cs4ip.com:8000/live/simon/simon/6365.ts
-#EXTINF:-1,US: HBO Family
-http://ip.cs4ip.com:8000/live/simon/simon/6364.ts
-#EXTINF:-1,US: HBO HD
-http://ip.cs4ip.com:8000/live/simon/simon/6363.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://ip.cs4ip.com:8000/live/simon/simon/6362.ts
-#EXTINF:-1,US: HIFI
-http://ip.cs4ip.com:8000/live/simon/simon/6361.ts
-#EXTINF:-1,US: History Channel HD
-http://ip.cs4ip.com:8000/live/simon/simon/6360.ts
-#EXTINF:-1,US: HSN 1
-http://ip.cs4ip.com:8000/live/simon/simon/6359.ts
-#EXTINF:-1,US: KTVU News
-http://ip.cs4ip.com:8000/live/simon/simon/6357.ts
-#EXTINF:-1,US: LIFETIME HD
-http://ip.cs4ip.com:8000/live/simon/simon/6356.ts
-#EXTINF:-1,US: Max West
-http://ip.cs4ip.com:8000/live/simon/simon/6355.ts
-#EXTINF:-1,US: Mello TV
-http://ip.cs4ip.com:8000/live/simon/simon/6354.ts
-#EXTINF:-1,US: Nasa TV HD
-http://ip.cs4ip.com:8000/live/simon/simon/6350.ts
-#EXTINF:-1,US: National Geographic HD
-http://ip.cs4ip.com:8000/live/simon/simon/6349.ts
-#EXTINF:-1,US: NBA HD
-http://ip.cs4ip.com:8000/live/simon/simon/6348.ts
-#EXTINF:-1,US: Golf HD
-http://ip.cs4ip.com:8000/live/simon/simon/6347.ts
-#EXTINF:-1,US: NBC HD
-http://ip.cs4ip.com:8000/live/simon/simon/6346.ts
-#EXTINF:-1,US: Nickelodeon HD
-http://ip.cs4ip.com:8000/live/simon/simon/6344.ts
-#EXTINF:-1,US: PBS HD
-http://ip.cs4ip.com:8000/live/simon/simon/6341.ts
-#EXTINF:-1,US: RT America HD
-http://ip.cs4ip.com:8000/live/simon/simon/6338.ts
-#EXTINF:-1,US: RT Documentary
-http://ip.cs4ip.com:8000/live/simon/simon/6337.ts
-#EXTINF:-1,US: Showtime 2
-http://ip.cs4ip.com:8000/live/simon/simon/6336.ts
-#EXTINF:-1,US: Showtime HD
-http://ip.cs4ip.com:8000/live/simon/simon/6335.ts
-#EXTINF:-1,US: Spike HD
-http://ip.cs4ip.com:8000/live/simon/simon/6332.ts
-#EXTINF:-1,US: Sports Night
-http://ip.cs4ip.com:8000/live/simon/simon/6331.ts
-#EXTINF:-1,US: Starz Cinema HD
-http://ip.cs4ip.com:8000/live/simon/simon/6330.ts
-#EXTINF:-1,US: Starz Comedy
-http://ip.cs4ip.com:8000/live/simon/simon/6329.ts
-#EXTINF:-1,US: Starz Kids Family
-http://ip.cs4ip.com:8000/live/simon/simon/6325.ts
-#EXTINF:-1,US: Starz West
-http://ip.cs4ip.com:8000/live/simon/simon/6324.ts
-#EXTINF:-1,US: SyFy HD
-http://ip.cs4ip.com:8000/live/simon/simon/6323.ts
-#EXTINF:-1,US: Willow Cricket
-http://ip.cs4ip.com:8000/live/simon/simon/6321.ts
-#EXTINF:-1,US: The Florida Channel
-http://ip.cs4ip.com:8000/live/simon/simon/6320.ts
-#EXTINF:-1,US: TLC
-http://ip.cs4ip.com:8000/live/simon/simon/6319.ts
-#EXTINF:-1,US: TNT HD
-http://ip.cs4ip.com:8000/live/simon/simon/6318.ts
-#EXTINF:-1,US: TV Land
-http://ip.cs4ip.com:8000/live/simon/simon/6314.ts
-#EXTINF:-1,US: UC TV
-http://ip.cs4ip.com:8000/live/simon/simon/6313.ts
-#EXTINF:-1,US: USA Network
-http://ip.cs4ip.com:8000/live/simon/simon/6312.ts
-#EXTINF:-1,US: Weather Channel
-http://ip.cs4ip.com:8000/live/simon/simon/6309.ts
-#EXTINF:-1,US: WGN News Chicago
-http://ip.cs4ip.com:8000/live/simon/simon/6308.ts
-#EXTINF:-1,US: Willow Cricket HD
-http://ip.cs4ip.com:8000/live/simon/simon/6307.ts
-#EXTINF:-1,US: World Fashion HD
-http://ip.cs4ip.com:8000/live/simon/simon/6306.ts
-#EXTINF:-1,US: ABC NEWS
-http://ip.cs4ip.com:8000/live/simon/simon/5991.ts
-#EXTINF:-1,US: AFN Sport 2 HD
-http://ip.cs4ip.com:8000/live/simon/simon/5972.ts
+http://no1dadicated.tk:8000/live/Mick/Mick/27255.ts
 #EXTINF:-1,US: Bravo
-http://ip.cs4ip.com:8000/live/simon/simon/5968.ts
-#EXTINF:-1,US: CNBC
-http://ip.cs4ip.com:8000/live/simon/simon/5993.ts
+http://no1dadicated.tk:8000/live/Mick/Mick/27256.ts
+#EXTINF:-1,US: BTN Sport HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27257.ts
+#EXTINF:-1,US: CBS HD/ NFL Sunday Ticket 5
+http://no1dadicated.tk:8000/live/Mick/Mick/27258.ts
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://no1dadicated.tk:8000/live/Mick/Mick/27259.ts
+#EXTINF:-1,US: Cinemax Moremax
+http://no1dadicated.tk:8000/live/Mick/Mick/27260.ts
 #EXTINF:-1,US: CNN HD
-http://ip.cs4ip.com:8000/live/simon/simon/5969.ts
-#EXTINF:-1,US: Food Network
-http://ip.cs4ip.com:8000/live/simon/simon/5975.ts
-#EXTINF:-1,US: FX TV
-http://ip.cs4ip.com:8000/live/simon/simon/5967.ts
-#EXTINF:-1,US: HBO ZONE
-http://ip.cs4ip.com:8000/live/simon/simon/5982.ts
-#EXTINF:-1,US: HGTV
-http://ip.cs4ip.com:8000/live/simon/simon/5976.ts
-#EXTINF:-1,US: NHL Network
-http://ip.cs4ip.com:8000/live/simon/simon/5974.ts
-#EXTINF:-1,US: Pocker Centrale
-http://ip.cs4ip.com:8000/live/simon/simon/5990.ts
+http://no1dadicated.tk:8000/live/Mick/Mick/27261.ts
+#EXTINF:-1,US: COMEDY CENTRAL
+http://no1dadicated.tk:8000/live/Mick/Mick/27262.ts
+#EXTINF:-1,US: CW HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27263.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27264.ts
+#EXTINF:-1,US: ESPN
+http://no1dadicated.tk:8000/live/Mick/Mick/27265.ts
+#EXTINF:-1,US: ESPN 2
+http://no1dadicated.tk:8000/live/Mick/Mick/27266.ts
+#EXTINF:-1,US: Food Network HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27267.ts
+#EXTINF:-1,US: Freeform HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27268.ts
+#EXTINF:-1,US: FX HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27247.ts
+#EXTINF:-1,US: H2
+http://no1dadicated.tk:8000/live/Mick/Mick/27269.ts
+#EXTINF:-1,US: HALLMARK
+http://no1dadicated.tk:8000/live/Mick/Mick/27270.ts
+#EXTINF:-1,US: HBO
+http://no1dadicated.tk:8000/live/Mick/Mick/27271.ts
+#EXTINF:-1,US: HBO Family HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27272.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://no1dadicated.tk:8000/live/Mick/Mick/27273.ts
+#EXTINF:-1,US: HISTORY
+http://no1dadicated.tk:8000/live/Mick/Mick/27274.ts
+#EXTINF:-1,US: Investigation Discovery
+http://no1dadicated.tk:8000/live/Mick/Mick/27275.ts
+#EXTINF:-1,US: LIFE TIME
+http://no1dadicated.tk:8000/live/Mick/Mick/27276.ts
+#EXTINF:-1,US: National Geographic
+http://no1dadicated.tk:8000/live/Mick/Mick/27277.ts
+#EXTINF:-1,US: NBC SPORT
+http://no1dadicated.tk:8000/live/Mick/Mick/27279.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27280.ts
+#EXTINF:-1,US: OWN HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27281.ts
+#EXTINF:-1,US: ShowTime
+http://no1dadicated.tk:8000/live/Mick/Mick/27282.ts
+#EXTINF:-1,US: ShowTime 2 HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27283.ts
+#EXTINF:-1,US: Showtime Extreme
+http://no1dadicated.tk:8000/live/Mick/Mick/27284.ts
+#EXTINF:-1,US: Showtime Showcase
+http://no1dadicated.tk:8000/live/Mick/Mick/27285.ts
+#EXTINF:-1,US: SPIKE HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27286.ts
+#EXTINF:-1,US: Starz Comedy
+http://no1dadicated.tk:8000/live/Mick/Mick/27287.ts
+#EXTINF:-1,US: STARZ EAST
+http://no1dadicated.tk:8000/live/Mick/Mick/27288.ts
+#EXTINF:-1,US: SYFY HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27289.ts
 #EXTINF:-1,US: TBS HD
-http://ip.cs4ip.com:8000/live/simon/simon/5970.ts
-#EXTINF:-1,US: TRU TV HD
-http://ip.cs4ip.com:8000/live/simon/simon/5980.ts
-#EXTINF:-1,US:ABC
-http://ip.cs4ip.com:8000/live/simon/simon/5992.ts
-#EXTINF:-1,US:NBA
-http://ip.cs4ip.com:8000/live/simon/simon/5994.ts
-#EXTINF:-1,USA: BEIN SPORT USA
-http://ip.cs4ip.com:8000/live/simon/simon/5983.ts
-#EXTINF:-1,USA: Espn
-http://ip.cs4ip.com:8000/live/simon/simon/5985.ts
-#EXTINF:-1,USA: Espn2
-http://ip.cs4ip.com:8000/live/simon/simon/5984.ts
-#EXTINF:-1,USA: FOX SPORT 1 HD
-http://ip.cs4ip.com:8000/live/simon/simon/5978.ts
-#EXTINF:-1,USA: FOX SPORT 2 HD
-http://ip.cs4ip.com:8000/live/simon/simon/5979.ts
-#EXTINF:-1,USA: The Florida Channel
-http://ip.cs4ip.com:8000/live/simon/simon/5995.ts
-#EXTINF:-1,USA: TSN 1
-http://ip.cs4ip.com:8000/live/simon/simon/5986.ts
-#EXTINF:-1,USA: TSN 2
-http://ip.cs4ip.com:8000/live/simon/simon/5987.ts
-#EXTINF:-1,USA: TSN 3
-http://ip.cs4ip.com:8000/live/simon/simon/5988.ts
-#EXTINF:-1,USA: TSN 4
-http://ip.cs4ip.com:8000/live/simon/simon/5989.ts
-#EXTINF:-1,USA: TSN 5
-http://ip.cs4ip.com:8000/live/simon/simon/5971.ts
-#EXTINF:-1,USA: WWE RAW HD
-http://ip.cs4ip.com:8000/live/simon/simon/5981.ts
+http://no1dadicated.tk:8000/live/Mick/Mick/27290.ts
+#EXTINF:-1,US: USA Network
+http://no1dadicated.tk:8000/live/Mick/Mick/27291.ts
+#EXTINF:-1,US: WWE HD
+http://no1dadicated.tk:8000/live/Mick/Mick/27292.ts

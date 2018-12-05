@@ -5,6 +5,1623 @@ http://dl.movieo.ir/dlha/files/2017/6.Days.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.
 
 #EXTINF:-1 tvg-logo="https://dailydead.com/wp-content/uploads/2017/05/7-Witches-poster.jpg" group-title="MOVIES",7 Witches (2017)
 http://dl.movieo.ir/dlha/files/2017/7.Witches.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
+#EXTM3U
+#EXTINF:0 group-title="AF: Afghanistan",AF: AL KASS SPORTS 1 
+http://www.elahmad.com/tv/m3u8/alkass.ts
+#EXTINF:0 group-title="AF: Afghanistan",AF: SMASH SPORTS 
+http://144.76.182.50:25461/live/smash/smash/4.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORT 1 
+http://163.172.222.105:3333/live/Kumru2/skype242/3112.ts
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORT 1 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/3112.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORT 1 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3112.ts
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORT 1 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3112.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 1 
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 2 HD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 2 
+http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 3 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 OPT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 OPT 2 
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 OPT 3 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS1 
+http://163.172.222.105:3333/live/Kumru2/skype242/2931.ts
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2931.ts
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS1 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2931.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS2 
+http://163.172.222.105:3333/live/Kumru2/skype242/2932.ts
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2932.ts
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS2 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2932.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: AL NAHAR SPORTS 
+http://163.172.222.105:3333/live/Kumru2/skype242/3075.ts
+#EXTINF:0 group-title="AR: Arabia",AR: AL NAHAR SPORTS (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3075.ts
+#EXTINF:0 group-title="AR: Arabia",AR: AL NAHAR SPORTS (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3075.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/11.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT 4 HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/5.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3153.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3153.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD10 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3145.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD10 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3145.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD11 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3144.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD11 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3144.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD12 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3143.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD12 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3143.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3154.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3154.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3152.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3152.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3151.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD4 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3151.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD5 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3150.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD5 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3150.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD7 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3148.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD7 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3148.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD8 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3147.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD8 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3147.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD9 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3146.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD9 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3146.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/2.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/2.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/2.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3133.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3133.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3142.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3142.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/3.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/3.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3141.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3141.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/4.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/4.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/4.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3140.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3140.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/5.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 (1+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/5.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3139.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3139.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/6.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/6.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/6.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3138.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3138.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/7.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/7.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/7.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3137.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3137.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/8.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/8.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3136.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3136.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/9.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/9.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/9.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3135.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3135.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/10.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/10.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/10.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3134.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3134.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD1 
+http://163.172.222.105:3333/live/Kumru2/skype242/3153.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD10 
+http://163.172.222.105:3333/live/Kumru2/skype242/3145.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD11 
+http://163.172.222.105:3333/live/Kumru2/skype242/3144.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD12 
+http://163.172.222.105:3333/live/Kumru2/skype242/3143.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD12 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/3143.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD2 
+http://163.172.222.105:3333/live/Kumru2/skype242/3154.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD3 
+http://163.172.222.105:3333/live/Kumru2/skype242/3152.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD4 
+http://163.172.222.105:3333/live/Kumru2/skype242/3151.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD4 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/3151.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD5 
+http://163.172.222.105:3333/live/Kumru2/skype242/3150.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD5 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/3150.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD7 
+http://163.172.222.105:3333/live/Kumru2/skype242/3148.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD8 
+http://163.172.222.105:3333/live/Kumru2/skype242/3147.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORT HD9 
+http://163.172.222.105:3333/live/Kumru2/skype242/3146.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 10HD 
+http://163.172.222.105:3333/live/Kumru2/skype242/3133.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 1HD 
+http://163.172.222.105:3333/live/Kumru2/skype242/3142.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 2HD 
+http://163.172.222.105:3333/live/Kumru2/skype242/3141.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 3HD 
+http://163.172.222.105:3333/live/Kumru2/skype242/3140.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 4HD 
+http://163.172.222.105:3333/live/Kumru2/skype242/3139.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 4HD (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/3139.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 7HD 
+http://163.172.222.105:3333/live/Kumru2/skype242/3136.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 8HD 
+http://163.172.222.105:3333/live/Kumru2/skype242/3135.ts
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 9HD 
+http://163.172.222.105:3333/live/Kumru2/skype242/3134.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 
+http://163.172.222.105:3333/live/Kumru2/skype242/2951.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2951.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2951.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1 HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2954.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2954.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2954.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2954.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 3 
+http://163.172.222.105:3333/live/Kumru2/skype242/2952.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2952.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 3 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2952.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 4 
+http://163.172.222.105:3333/live/Kumru2/skype242/2953.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 4 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2953.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 4 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2953.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 4 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2953.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/13.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS (1+) 
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/13.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS (2+) 
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/13.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 3 HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: EIN SPORT HD6 
+http://163.172.222.105:3333/live/Kumru2/skype242/3149.ts
+#EXTINF:0 group-title="AR: Arabia",AR: EIN SPORT HD6 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/3149.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: EIN SPORT HD6 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3149.ts
+#EXTINF:0 group-title="AR: Arabia",AR: EIN SPORT HD6 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3149.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: IRAQIA SPORT 
+http://163.172.222.105:3333/live/Kumru2/skype242/3060.ts
+#EXTINF:0 group-title="AR: Arabia",AR: IRAQIA SPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3060.ts
+#EXTINF:0 group-title="AR: Arabia",AR: IRAQIA SPORT (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3060.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: KASS SPORTS 1 
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/18.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: KASS SPORTS 1 (1+) 
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/18.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: KTV SPORT 
+http://163.172.222.105:3333/live/Kumru2/skype242/3031.ts
+#EXTINF:0 group-title="AR: Arabia",AR: KTV SPORT (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/3031.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: KTV SPORT (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3031.ts
+#EXTINF:0 group-title="AR: Arabia",AR: KTV SPORT (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3031.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: MBC PRO SPORTS 4 
+http://163.172.222.105:3333/live/Kumru2/skype242/2972.ts
+#EXTINF:0 group-title="AR: Arabia",AR: MBC PRO SPORTS 4 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2972.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: MBC PRO SPORTS 4 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2972.ts
+#EXTINF:0 group-title="AR: Arabia",AR: MBC PRO SPORTS 4 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2972.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORT 
+http://163.172.222.105:3333/live/Kumru2/skype242/2926.ts
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2926.ts
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORT (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2926.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN AD SPORTS 1 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/26.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN AD SPORTS 1 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/26.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN AD SPORTS 2 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/27.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN AD SPORTS 2 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/27.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 1 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/47.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 1 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/47.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 1 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/47.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3118.ts
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3118.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 2 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/48.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 2 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/48.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 2 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/48.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3117.ts
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3117.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN OFFICE BOX 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1006.ts
+#EXTINF:0 group-title="AR: Arabia",AR: OSN OFFICE BOX 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1006.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN OFFICE BOX 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1007.ts
+#EXTINF:0 group-title="AR: Arabia",AR: OSN OFFICE BOX 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1007.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: OSN SPORTS 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1014.ts
+#EXTINF:0 group-title="AR: Arabia",AR: OSN SPORTS 4 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1014.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: VARZESH TV SPORTS IR 
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2984.ts
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2984.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2984.ts
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2984.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED 
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YES SPORT 1 
+http://163.172.222.105:3333/live/Kumru2/skype242/1330.ts
+#EXTINF:0 group-title="AR: Arabia",AR: YES SPORT 1 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/1330.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YES SPORT 1 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1330.ts
+#EXTINF:0 group-title="AR: Arabia",AR: YES SPORT 1 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1330.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YES SPORT 5 
+http://163.172.222.105:3333/live/Kumru2/skype242/1298.ts
+#EXTINF:0 group-title="AR: Arabia",AR: YES SPORT 5 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/1298.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YES SPORT 5 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1298.ts
+#EXTINF:0 group-title="AR: Arabia",AR: YES SPORT 5 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1298.m3u8
+#EXTINF:0 group-title="CA: Canada",CA: GOLF 
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11456.ts
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 1 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/20.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 1 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/20.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 1 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/20.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 2 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/21.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 2 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/21.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 2 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/21.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 3 HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/22.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 3 (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/22.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 3 (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/22.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/252.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/252.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/253.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/253.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/254.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/254.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT MAX 5 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/389.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT MAX 5 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/389.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT MAX 7 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/391.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT MAX 7 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/391.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT MAX 8 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/392.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT MAX 8 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/392.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORTS 3HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/724.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORTS 3HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/724.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORTS MAX 10 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/726.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORTS MAX 10 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/726.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORTS MAX 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/388.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORTS MAX 4 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/388.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEINSPORTS MAX 9 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/725.m3u8
+#EXTINF:0 group-title="FR: France",FR: CANAL SPORTS HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/148.ts
+#EXTINF:0 group-title="FR: France",FR: CANAL SPORTS (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/148.m3u8
+#EXTINF:0 group-title="FR: France",FR: GOLF HD
+http://163.172.222.105:3333/live/Kumru2/skype242/972.ts
+#EXTINF:0 group-title="FR: France",FR: GOLF (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/972.m3u8
+#EXTINF:0 group-title="FR: France",FR: GOLF (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/972.ts
+#EXTINF:0 group-title="FR: France",FR: GOLF (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/972.m3u8
+#EXTINF:0 group-title="FR: France",FR: INFOSPORT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/393.ts
+#EXTINF:0 group-title="FR: France",FR: INFOSPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/393.m3u8
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 1 HD
+http://163.172.222.105:3333/live/Kumru2/skype242/217.ts
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/217.ts
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 1 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/217.m3u8
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/218.ts
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/218.m3u8
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 4 HD
+http://163.172.222.105:3333/live/Kumru2/skype242/809.ts
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 4 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/809.ts
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 4 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/809.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: AUTO MOTOR SPORT CHANNEL HD
+http://163.172.222.105:3333/live/Kumru2/skype242/4065.ts
+#EXTINF:0 group-title="DE: Germany",DE: AUTO MOTOR SPORT CHANNEL (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/4065.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: AUTO MOTOR SPORT CHANNEL (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4065.ts
+#EXTINF:0 group-title="DE: Germany",DE: AUTO MOTOR SPORT CHANNEL (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4065.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: DRF1 
+http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 
+http://163.172.222.105:3333/live/Kumru2/skype242/215.ts
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/215.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/215.ts
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/215.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 HD
+http://163.172.222.105:3333/live/Kumru2/skype242/649.ts
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/649.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/649.ts
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/649.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 
+http://163.172.222.105:3333/live/Kumru2/skype242/4066.ts
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/4066.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4066.ts
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4066.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: O2 SPORT 
+https://stc.o2tv.cz/at/c559a031e3a0383a8898dd5b61f8e540/1542560999776/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/5-tv-pc.ts
+#EXTINF:0 group-title="DE: Germany",DE: O2 SPORT 1 
+https://stc.o2tv.cz/at/94f30679e076dada446c960107c6e505/1542561065087/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/551-tv-pc.ts
+#EXTINF:0 group-title="DE: Germany",DE: O2 SPORT 2 
+https://stc.o2tv.cz/at/ab39ed9e515f5b70adcbba5faaf0039b/1542561086261/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/552-tv-pc.ts
+#EXTINF:0 group-title="DE: Germany",DE: O2 SPORT 3 
+https://stc.o2tv.cz/at/c0753badac84508513d9bb40fcb91fad/1542561108622/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/553-tv-pc.ts
+#EXTINF:0 group-title="DE: Germany",DE: O2 SPORT 4 
+https://stc.o2tv.cz/at/1a72701dfaf43e06743c1d3857ead16a/1542561136003/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/554-tv-pc.ts
+#EXTINF:0 group-title="DE: Germany",DE: O2 SPORT 5 
+https://stc.o2tv.cz/at/0a17a9e7df9dc16113a99367f9f324c7/1542561184580/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/555-tv-pc.ts
+#EXTINF:0 group-title="DE: Germany",DE: O2 SPORT 6 
+https://stc.o2tv.cz/at/aaef3af917249895d65aabcbfc56d9b2/1542561220200/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/556-tv-pc.ts
+#EXTINF:0 group-title="DE: Germany",DE: O2 TENIS 
+https://stc.o2tv.cz/at/7aff71bddf83424748b16c4a660f7955/1542561032124/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/558-tv-pc.ts
+#EXTINF:0 group-title="DE: Germany",DE: ORF SPORT 
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL CANAL SPORT HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/1992.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL EUROSPORT 1 HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2005.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL EUROSPORT 1 (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2005.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL EUROSPORT 2 HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2006.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL EUROSPORT 2 (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2006.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL EXTREME SPORTS HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2007.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL EXTREME SPORTS (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2007.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL FIGHTBOX HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2008.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX ACTION 
+http://stars.managercw.com:8000/live/POLAND/POLAND/2009.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX EXTRA 
+http://stars.managercw.com:8000/live/POLAND/POLAND/2010.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX FAMILY 
+http://stars.managercw.com:8000/live/POLAND/POLAND/2011.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX PREMIUM HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2012.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL GOLF CHANNEL 
+http://37.59.34.182:8000/live/POLAND/POLAND/2017.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL GOLF CHANNEL (1+) 
+http://stars.managercw.com:8000/live/POLAND/POLAND/2017.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2053.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2053.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT (2+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2053.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT 
+http://37.59.34.182:8000/live/POLAND/POLAND/2049.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT (1+) 
+http://stars.managercw.com:8000/live/POLAND/POLAND/2049.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT (2+) 
+http://stars.managercw.com:8000/live/POLAND/POLAND/2049.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2051.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2051.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA (2+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2051.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA 
+http://37.59.34.182:8000/live/POLAND/POLAND/2050.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA (1+) 
+http://stars.managercw.com:8000/live/POLAND/POLAND/2050.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT FIGHT HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2052.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT FIGHT (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2052.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT FIGHT (2+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2052.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL TENIS PREMIUM 1 
+http://37.59.34.182:8000/live/POLAND/POLAND/2064.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: PL TENIS PREMIUM 2 
+http://37.59.34.182:8000/live/POLAND/POLAND/2065.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: RED BULL TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/860.ts
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/860.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/192.ts
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/192.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/995.ts
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/995.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/205.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SPORTDIGITAL HD
+http://163.172.222.105:3333/live/Kumru2/skype242/1052.ts
+#EXTINF:0 group-title="DE: Germany",DE: SPORTDIGITAL (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/1052.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SPORTDIGITAL (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1052.ts
+#EXTINF:0 group-title="DE: Germany",DE: SPORTDIGITAL (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1052.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: EUROSPORT 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1266.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: EUROSPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1267.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: OTE SPORT 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1283.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: OTE SPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1284.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: OTE SPORT 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1285.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: OTE SPORT 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1286.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: TILESPORT 
+http://163.172.222.105:3333/live/Kumru2/skype242/1288.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: TILESPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1288.m3u8
+#EXTINF:0 group-title="IN: India",IN: DONBAS TV 
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
+#EXTINF:0 group-title="IN: India",IN: SONY ESPN 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/352.m3u8
+#EXTINF:0 group-title="IN: India",IN: SONY ESPN (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1553.m3u8
+#EXTINF:0 group-title="IN: India",IN: STAR SPORTS 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/351.m3u8
+#EXTINF:0 group-title="IN: India",IN: STAR SPORTS 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1532.m3u8
+#EXTINF:0 group-title="IN: India",IN: STAR SPORTS 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/350.m3u8
+#EXTINF:0 group-title="IN: India",IN: STAR SPORTS 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1533.m3u8
+#EXTINF:0 group-title="IN: India",IN: STAR SPORTS 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/349.m3u8
+#EXTINF:0 group-title="IN: India",IN: STAR SPORTS 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1534.m3u8
+#EXTINF:0 group-title="IN: India",IN: STAR SPORTS 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/348.m3u8
+#EXTINF:0 group-title="IN: India",IN: STAR SPORTS 4 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1535.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: AUTOMOTO TV 
+http://178.22.187.253:1935/streaming-tv/mp4:myStream1/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 2 
+http://163.172.222.105:3333/live/Kumru2/skype242/1504.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1504.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: IRC SPORT TV 
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ITALIAN FISHING 
+http://163.172.222.105:3333/live/Kumru2/skype242/1641.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ITALIAN FISHING (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1641.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM EUROSPORT 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/181.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/610.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/609.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RTV SAN MARINO SPORT 
+http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1318.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 HD
+http://173.249.53.3:8000/live/ssklkjlkjok/itaknjkb/632.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/321.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 HD
+http://173.249.53.3:8000/live/ssklkjlkjok/itaknjkb/633.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/322.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/324.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 HD
+http://173.249.53.3:8000/live/ssklkjlkjok/itaknjkb/634.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT F1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1319.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1202.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1203.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS 3 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1204.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SPORTITALIA 
+http://163.172.222.105:3333/live/Kumru2/skype242/876.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SPORTITALIA (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/876.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPER TENIS 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/202.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEARENA ENTERTAINMENT ITALIAN 
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA SPORT 
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TV LUNA SPORT 
+http://live.sloode.com:1935/out.tvluna.arju87645hf/lunasport/playlist.m3u8
+#EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW 
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2094.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2093.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/223.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2045.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2083.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (3+) 
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/19.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (4+) 
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/19.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (5+) 
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/19.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/224.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2044.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2082.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/225.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2043.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2081.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/364.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2042.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2080.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/365.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2041.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2079.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 6 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/366.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 6 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2040.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 6 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2078.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2025.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT RACING 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/933.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/226.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2023.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORTS 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/932.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORTS EXTRA 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/935.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORTS EXTRA 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/936.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORTS GOLF 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/934.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORTS SELECT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2024.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORTS SELECT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2059.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORTS VOETBAL 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/875.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORTS VOETBAL (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2058.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: ALL SPORTS 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/247.ts
+#EXTINF:0 group-title="PT: Portugal",PT: ALL SPORTS (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/247.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1348.ts
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4125.ts
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/27.ts
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 LOW HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4170.ts
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 LOW (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4170.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/168.ts
+#EXTINF:0 group-title="PT: Portugal",PT: KOMBAT SPORT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/75.ts
+#EXTINF:0 group-title="PT: Portugal",PT: KOMBAT SPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4212.ts
+#EXTINF:0 group-title="PT: Portugal",PT: KOMBAT SPORT (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/75.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: MOTORS TV 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/74.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: MOTORVISION HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/73.ts
+#EXTINF:0 group-title="PT: Portugal",PT: MOTORVISION (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4193.ts
+#EXTINF:0 group-title="PT: Portugal",PT: MOTORVISION (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/73.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: MOTORVISION (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4193.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: MOTORVISION 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/150.ts
+#EXTINF:0 group-title="PT: Portugal",PT: NBA HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/72.ts
+#EXTINF:0 group-title="PT: Portugal",PT: NBA 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4191.ts
+#EXTINF:0 group-title="PT: Portugal",PT: NBA (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4191.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/690.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/61.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1505.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4109.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4115.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4313.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (4+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1505.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (5+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4109.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (6+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4115.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (7+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4313.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/50.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2480.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3969.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 LOW HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/685.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 LOW (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/685.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 LOW 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2481.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/686.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4116.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4207.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/686.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (4+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4116.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (5+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4207.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/51.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3985.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/51.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3985.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/687.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4171.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4208.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/687.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (4+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4171.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (5+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4208.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/52.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/688.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4133.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4133.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/689.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4134.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4134.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/59.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/53.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4140.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1350.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4140.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/63.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV LOW 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4175.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV LOW (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4175.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1221.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1222.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1223.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1224.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 
+http://163.172.222.105:3333/live/Kumru2/skype242/1228.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1228.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2 
+http://163.172.222.105:3333/live/Kumru2/skype242/1229.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1229.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: SPORTRO 
+http://163.172.222.105:3333/live/Kumru2/skype242/1246.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: SPORTRO (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1246.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: BEIN SPORTS OPT 3 
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/755.ts
+#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/755.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/753.ts
+#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/753.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/754.ts
+#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/754.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: EXTREME SPORT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/756.ts
+#EXTINF:0 group-title="RU: Russia",RU: EXTREME SPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/756.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: FILMBOX EXTRA 
+http://93.87.85.10/PLTV/88888888/224/3221226932/index.ts
+#EXTINF:0 group-title="RU: Russia",RU: MATCH! ARENA 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/762.ts
+#EXTINF:0 group-title="RU: Russia",RU: MATCH! ARENA (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/762.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR FORMULA 1 OPT 2 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR GOLF OPT 1 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR GOLF OPT 2 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: RAI SPORT OPT 2 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: SKY SPORT 1 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/746/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: SPORT HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: SPORT (1+) HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: SPORT 
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: VIASAT SPORT HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/790.ts
+#EXTINF:0 group-title="RU: Russia",RU: VIASAT SPORT (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/790.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: VIASAT SPORT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/789.ts
+#EXTINF:0 group-title="RU: Russia",RU: VIASAT SPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/789.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORT HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4244.ts
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORT (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4244.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4245.ts
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4245.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORTS HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/23.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORTS (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/23.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORTS (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/23.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORTS LALIGA HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2376.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORTS LALIGA 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2377.ts
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORTS LALIGA (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2377.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4253.ts
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 (1+) HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.ts
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4253.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4254.ts
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4254.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4282.ts
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4282.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4255.ts
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2 (1+) 
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.ts
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4255.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME OPT 2 
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: M GOLF HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOTO GP HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4248.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 (1+) HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4248.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/892.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/892.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR GOLF HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/805.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR GOLF (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/805.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR GOLF 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2381.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR GOLF (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2381.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTO GP HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/804.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTO GP (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/804.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTOGP HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4252.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTOGP (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4252.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTOGP 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2380.ts
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTOGP (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2380.m3u8
+#EXTINF:0 group-title="SE: Sweden",SE: ELEVEN SPORTS NEXT 
+http://swf.x10.bz/swe/twich.php?canal=elevensportsnext&f=.ts
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2182.ts
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2182.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2182.ts
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2182.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR 
+http://163.172.222.105:3333/live/Kumru2/skype242/2181.ts
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2187.ts
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (2+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2181.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (3+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2187.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (4+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2181.ts
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (5+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2187.ts
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (6+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2181.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (7+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2187.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2180.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2180.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2179.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2179.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 3 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2178.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 3 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2178.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/25.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 (1+) 
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/25.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BURSASPOR 
+http://163.172.222.105:3333/live/Kumru2/skype242/2176.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BURSASPOR (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2176.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BURSASPOR (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2176.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BURSASPOR (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2176.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BURSASPOR TV 
+http://163.172.222.105:3333/live/Kumru2/skype242/2136.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BURSASPOR TV (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2136.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BURSASPOR TV (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2136.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BURSASPOR TV (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2136.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: EUROSPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2125.ts
+#EXTINF:0 group-title="TR: Turkey",TR: EUROSPORT 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2125.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: EUROSPORT 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2124.ts
+#EXTINF:0 group-title="TR: Turkey",TR: EUROSPORT 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2124.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: FILMBOX YESILCAM HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2169.ts
+#EXTINF:0 group-title="TR: Turkey",TR: FILMBOX YESILCAM (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2169.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: FILMBOX YESILCAM 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2170.ts
+#EXTINF:0 group-title="TR: Turkey",TR: FILMBOX YESILCAM 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2170.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NBA TV HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2162.ts
+#EXTINF:0 group-title="TR: Turkey",TR: NBA TV (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2162.ts
+#EXTINF:0 group-title="TR: Turkey",TR: NBA TV (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2162.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NBA TV 
+http://163.172.222.105:3333/live/Kumru2/skype242/2253.ts
+#EXTINF:0 group-title="TR: Turkey",TR: NBA TV (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2253.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NBA TV (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2253.ts
+#EXTINF:0 group-title="TR: Turkey",TR: NBA TV (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2253.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2249.ts
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/2249.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2249.ts
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2249.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR 
+http://163.172.222.105:3333/live/Kumru2/skype242/2160.ts
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/2160.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2160.ts
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2160.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: S SPORT HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2110.ts
+#EXTINF:0 group-title="TR: Turkey",TR: S SPORT (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2245.ts
+#EXTINF:0 group-title="TR: Turkey",TR: S SPORT (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2110.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: S SPORT (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2245.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: SMART SPOR 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2102.ts
+#EXTINF:0 group-title="TR: Turkey",TR: SMART SPOR 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2102.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: SMARTSPOR 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2149.ts
+#EXTINF:0 group-title="TR: Turkey",TR: SMARTSPOR 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2149.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: SPORT TV 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2216.ts
+#EXTINF:0 group-title="TR: Turkey",TR: SPORT TV (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2216.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: SPORTS TV HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2148.ts
+#EXTINF:0 group-title="TR: Turkey",TR: SPORTS TV (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2148.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2146.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2211.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2146.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2211.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2302.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2302.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2145.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2210.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2145.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2210.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2301.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2301.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 3 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2144.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 3 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2209.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 3 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2144.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 3 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2209.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2300.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2300.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 4 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2299.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 4 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2299.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2298.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 4 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2298.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2099.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2099.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: VIP HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2295.ts
+#EXTINF:0 group-title="TR: Turkey",TR: VIP (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2297.ts
+#EXTINF:0 group-title="TR: Turkey",TR: VIP (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2295.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: VIP (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2297.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: VIP 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2296.ts
+#EXTINF:0 group-title="TR: Turkey",TR: VIP (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2296.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: VIP BEIN SPORTS 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2293.ts
+#EXTINF:0 group-title="TR: Turkey",TR: VIP BEIN SPORTS (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2294.ts
+#EXTINF:0 group-title="TR: Turkey",TR: VIP BEIN SPORTS (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2293.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: VIP BEIN SPORTS (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2294.m3u8
+#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS 
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT 
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT (1+) 
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/18.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AT THE RACES 
+http://163.172.222.105:3333/live/Kumru2/skype242/447.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: AT THE RACES (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/447.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: AT THE RACES (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/447.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX HITS 
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX NATION HD
+http://163.172.222.105:3333/live/Kumru2/skype242/331.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX NATION (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/331.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX NATION (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/331.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4352.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4352.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4348.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4348.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4349.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4349.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 3 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4350.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 3 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4350.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 4 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4351.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 4 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4351.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION HD
+http://163.172.222.105:3333/live/Kumru2/skype242/4223.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION (1+) HD
+http://163.172.222.105:3333/live/Kumru2/skype242/4223.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4223.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4223.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/456.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4393.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/456.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/100.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/100.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/457.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4156.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/457.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4156.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/101.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4392.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/101.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4392.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/102.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/458.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/102.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/458.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2485.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2485.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT ESPN HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/103.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT ESPN (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/453.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT ESPN (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/103.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT ESPN (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/453.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS EXTRA 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/104.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS EXTRA 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/104.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS EXTRA 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/105.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS EXTRA 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/105.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS EXTRA 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/106.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS EXTRA 4 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/106.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS EXTRA 5 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/107.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS EXTRA 5 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/107.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV HD
+http://163.172.222.105:3333/live/Kumru2/skype242/472.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/472.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/472.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/332.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORT 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/332.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORTS 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/125.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORTS 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/125.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORT 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/275.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORT 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/275.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORT 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/276.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORT 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/276.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FIGHT SPORTS 
+http://163.172.222.105:3333/live/Kumru2/skype242/2509.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FIGHT SPORTS (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2509.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FIGHT SPORTS (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2509.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FLOW SPORTS 
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOX SPORT 2 HD
+http://163.172.222.105:3333/live/Kumru2/skype242/336.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOX SPORT 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/336.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOX SPORT 2 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/336.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOX SPORTS 1HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/335.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: FOX SPORTS 1HD (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/335.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOTORS TV 
+http://163.172.222.105:3333/live/Kumru2/skype242/1468.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOTORS TV (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/1468.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOTORS TV (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1468.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: MOTORS TV (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1468.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: MUTV HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/435.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: MUTV (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/488.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: MUTV (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/488.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: PREMIER SPORTS 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/122.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: PREMIER SPORTS (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/122.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: RACING 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/126.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RACING (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/126.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY FOOTBALL HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4390.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY FOOTBALL (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4390.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/108.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/108.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/109.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/109.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 3 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/110.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 3 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/110.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 4 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/111.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 4 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/111.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 5 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/112.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 5 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/112.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ACTION HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2507.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ACTION (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2507.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ACTION 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/828.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ACTION (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2508.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ACTION (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/828.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ACTION (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2508.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ARENA HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2506.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ARENA (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2506.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/827.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3231.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/827.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/3231.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS F1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/113.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS F1 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4388.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS F1 (2+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/113.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS F1 (3+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4388.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS GOLF HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1471.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS GOLF (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1471.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2505.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/2505.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/826.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4389.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/826.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4389.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1472.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1472.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/830.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/994.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/830.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE (3+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/994.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS THE OPEN HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/829.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS THE OPEN (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/829.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 1 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/834.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 1 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/834.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 2 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/835.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/835.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 3 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/836.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/836.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 4 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/837.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 4 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/837.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 5 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/838.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 5 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/838.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 6 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/839.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKYNET SPORTS 6 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/839.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: UFC FIGHT NIGHT PRELIMS 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/337.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: UFC FIGHT NIGHT PRELIMS (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/337.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: UFC FIGHT PASS 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/480.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: UFC FIGHT PASS (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/480.m3u8
+#EXTINF:0 group-title="US: United States",US: ASTRO SUPERSPORT 1HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/981.m3u8
+#EXTINF:0 group-title="US: United States",US: ASTRO SUPERSPORT 2HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/982.m3u8
+#EXTINF:0 group-title="US: United States",US: ASTRO SUPERSPORT 3HD 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/983.m3u8
+#EXTINF:0 group-title="US: United States",US: AUTOMOTO TV OPT 1 
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:0 group-title="US: United States",US: BEIN SPORTS HD
+http://68.183.29.174:8000/live/64czHd0Hdn/freeiptvdaily.tv/24.m3u8
+#EXTINF:0 group-title="US: United States",US: BEIN SPORTS (1+) HD
+http://68.183.29.174:8000/live/9oMd99GDue/freeiptvdaily.tv/24.m3u8
+#EXTINF:0 group-title="US: United States",US: BEIN SPORTS (2+) HD
+http://68.183.29.174:8000/live/yssrDwYQUJ/freeiptvdaily.tv/24.m3u8
+#EXTINF:0 group-title="US: United States",US: BEIN SPORTS USA HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/984.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN (1+) 
+http://163.172.222.105:3333/live/Kumru2/skype242/953.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN (2+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/953.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 2 HD
+http://163.172.222.105:3333/live/Kumru2/skype242/4075.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 2 (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4075.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 2 
+http://163.172.222.105:3333/live/Kumru2/skype242/219.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/219.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 2 OPT 1 
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN U 
+http://163.172.222.105:3333/live/Kumru2/skype242/952.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN U (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/952.m3u8
+#EXTINF:0 group-title="US: United States",US: FIGHT NETWORK HD
+http://163.172.222.105:3333/live/Kumru2/skype242/4076.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORT 2 
+http://163.172.222.105:3333/live/Kumru2/skype242/220.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORT 2 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/220.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORT 3 
+http://163.172.222.105:3333/live/Kumru2/skype242/221.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORT 3 (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/221.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS 1 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/840.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS 2 HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/841.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING 
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SUN 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/842.m3u8
+#EXTINF:0 group-title="US: United States",US: GOLF HD
+http://163.172.222.105:3333/live/Kumru2/skype242/4079.m3u8
+#EXTINF:0 group-title="US: United States",US: GOLF (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/4079.m3u8
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC SPORTS ENGLISH 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
+#EXTINF:0 group-title="US: United States",US: NBA HD
+http://163.172.222.105:3333/live/Kumru2/skype242/222.m3u8
+#EXTINF:0 group-title="US: United States",US: NBA (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/222.m3u8
+#EXTINF:0 group-title="US: United States",US: NBC GOLF 
+http://163.172.222.105:3333/live/Kumru2/skype242/1343.m3u8
+#EXTINF:0 group-title="US: United States",US: NBC GOLF (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1343.m3u8
+#EXTINF:0 group-title="US: United States",US: NFL NETWORK HD
+http://163.172.222.105:3333/live/Kumru2/skype242/1571.m3u8
+#EXTINF:0 group-title="US: United States",US: NFL NETWORK (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1571.m3u8
+#EXTINF:0 group-title="US: United States",US: NHL NETWORK 
+http://163.172.222.105:3333/live/Kumru2/skype242/1344.m3u8
+#EXTINF:0 group-title="US: United States",US: NHL NETWORK (1+) 
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1344.m3u8
+#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC 
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:0 group-title="US: United States",US: RED BULL TV OPT 3 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="US: United States",US: TEN GOLF HD
+http://163.172.222.105:3333/live/Kumru2/skype242/1572.m3u8
+#EXTINF:0 group-title="US: United States",US: TEN GOLF (1+) HD
+http://iptv192.dyndns.tv:3333/live/Kumru2/skype242/1572.m3u8
+#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK 
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a2mGlFT.jpg" group-title="MOVIES",Agent (2017) [AR-Subs]
 https://archive.org/download/Agent_2017/Agent%202017.mp4

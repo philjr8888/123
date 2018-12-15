@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS F1
+http://gorilladick4.us:2086/live/irishboy/irishboy/1001.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS ACTION
+http://gorilladick4.us:2086/live/irishboy/irishboy/998.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS NEWS
+http://gorilladick4.us:2086/live/irishboy/irishboy/1003.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS MIX
+http://gorilladick4.us:2086/live/irishboy/irishboy/1002.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS PRE. LEAGUE
+http://gorilladick4.us:2086/live/irishboy/irishboy/1000.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS GOLF
+http://gorilladick4.us:2086/live/irishboy/irishboy/999.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS CRICKET
+http://gorilladick4.us:2086/live/irishboy/irishboy/997.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS MAIN EVENT
+http://gorilladick4.us:2086/live/irishboy/irishboy/996.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS BOX OFFICE PPV
+http://gorilladick4.us:2086/live/irishboy/irishboy/1004.ts

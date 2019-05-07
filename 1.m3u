@@ -1,884 +1,237 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS F1
-http://gorilladick4.us:2086/live/irishboy/irishboy/1001.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS ACTION
-http://gorilladick4.us:2086/live/irishboy/irishboy/998.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS NEWS
-http://gorilladick4.us:2086/live/irishboy/irishboy/1003.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS MIX
-http://gorilladick4.us:2086/live/irishboy/irishboy/1002.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS PRE. LEAGUE
-http://gorilladick4.us:2086/live/irishboy/irishboy/1000.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS GOLF
-http://gorilladick4.us:2086/live/irishboy/irishboy/999.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS CRICKET
-http://gorilladick4.us:2086/live/irishboy/irishboy/997.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS MAIN EVENT
-http://gorilladick4.us:2086/live/irishboy/irishboy/996.ts
-#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS BOX OFFICE PPV
-http://gorilladick4.us:2086/live/irishboy/irishboy/1004.ts
-#EXTINF:-1,------ UK HD ------
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12779
-#EXTINF:-1,BBC 1 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12099
-#EXTINF:-1,BBC 2 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12100
-#EXTINF:-1,BBC 3 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12096
-#EXTINF:-1,BBC 4 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12097
-#EXTINF:-1,BBC News
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12098
-#EXTINF:-1,ITV 1 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12143
-#EXTINF:-1,ITV 2 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12144
-#EXTINF:-1,ITV 3 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12145
-#EXTINF:-1,ITV 4 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12146
-#EXTINF:-1,ITV BE#EXTM3U
-#EXTINF:-1,UK: BBC BRIT
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6408
-#EXTINF:-1,UK: BT SPORT 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6407
-#EXTINF:-1,UK: BT SPORT 2
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6420
-#EXTINF:-1,UK: BT SPORT 3
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6421
-#EXTINF:-1,UK: CHANNEL 4 *
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6410
-#EXTINF:-1,UK: CHANNEL 5 *
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6411
-#EXTINF:-1,UK: EDEN
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6406
-#EXTINF:-1,UK: ITV 3 *
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6405
-#EXTINF:-1,UK: SPIKE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/6412
-#EXTINF:-1,UK: 3E IRELAND
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5872
-#EXTINF:-1,UK: 5 USA
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5781
-#EXTINF:-1,UK: ALiBi
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5816
-#EXTINF:-1,UK: ANiMAL PLANET
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5758
-#EXTINF:-1,UK: AT THE RACES
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5743
-#EXTINF:-1,UK: BABY TV
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5828
-#EXTINF:-1,UK: BBC 3/CBBC
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5886
-#EXTINF:-1,UK: BBC 4 HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5884
-#EXTINF:-1,UK: BBC NEWS HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5885
-#EXTINF:-1,UK: BBC ONE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5889
-#EXTINF:-1,UK: BBC TWO
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5887
-#EXTINF:-1,UK: BET STAR
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5776
-#EXTINF:-1,UK: BLAZE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5790
-#EXTINF:-1,UK: BOOMERANG
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5829
-#EXTINF:-1,UK: BOX HiTS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5791
-#EXTINF:-1,UK: BT SPORT EXTRA 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5738
-#EXTINF:-1,UK: BT SPORT EXTRA 2
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5737
-#EXTINF:-1,UK: BT SPORT EXTRA 3
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5736
-#EXTINF:-1,UK: BT SPORT EXTRA 4
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5735
-#EXTINF:-1,UK: BT SPORT EXTRA 5
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5734
-#EXTINF:-1,UK: CARTOON NETWORK
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5835
-#EXTINF:-1,UK: CBS ACTiON
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5824
-#EXTINF:-1,UK: CBS DRAMA
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5823
-#EXTINF:-1,UK: CBS REALiTY
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5822
-#EXTINF:-1,UK: CHANNEL 4
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5879
-#EXTINF:-1,UK: CHANNEL 5
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5878
-#EXTINF:-1,UK: CHART SHOW HiTS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5788
-#EXTINF:-1,UK: ELEVEN SPORTS LA LIGA
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5789
-#EXTINF:-1,UK: CHELSEA TV
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5745
-#EXTINF:-1,UK: CHiNA HiSTORY CHANNEL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5770
-#EXTINF:-1,UK: ELEVEN SPORTS 2
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5799
-#EXTINF:-1,UK: COMEDY CENTRAL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5862
-#EXTINF:-1,UK: DAVE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5757
-#EXTINF:-1,UK: DiSCOVERY
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5765
-#EXTINF:-1,UK: DiSCOVERY CHANNEL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5764
-#EXTINF:-1,UK: DiSCOVERY HiSTORY
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5761
-#EXTINF:-1,UK: DiSCOVERY HiSTORY  1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5760
-#EXTINF:-1,UK: HOME & HEALTH
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5766
-#EXTINF:-1,UK: DiSCOVERY SCiENCE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5767
-#EXTINF:-1,UK: DiSCOVERY TURBO
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5768
-#EXTINF:-1,UK: DiSNEY JUNiOR
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5836
-#EXTINF:-1,UK: DiSNEY XD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5837
-#EXTINF:-1,UK: DISNEY CHANNEL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/7430
-#EXTINF:-1,UK: DRAMA
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5733
-#EXTINF:-1,UK: DW ENGLiSH
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5809
-#EXTINF:-1,UK: E!
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5871
-#EXTINF:-1,UK: EUROSPORT 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5740
-#EXTINF:-1,UK: EUROSPORT 2
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5719
-#EXTINF:-1,UK: FiLM 4
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5818
-#EXTINF:-1,UK: FiLM 4 HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5819
-#EXTINF:-1,UK: FOX
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5866
-#EXTINF:-1,UK: FOX (SD)
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5865
-#EXTINF:-1,UK: GOLD TV
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5840
-#EXTINF:-1,UK: GOOD FOOD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5775
-#EXTINF:-1,UK: UNIVERSAL CHANNEL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5841
-#EXTINF:-1,UK: HBO COMEDY HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5842
-#EXTINF:-1,UK: KIDS MOVIES
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5795
-#EXTINF:-1,UK: HiSTORY CHANNEL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5759
-#EXTINF:-1,UK: HUNTiNG CHANNEL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5808
-#EXTINF:-1,UK: iNVESTiGATiON DISCOVERY
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5807
-#EXTINF:-1,UK: ITV 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5883
-#EXTINF:-1,UK: ITV 2
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5882
-#EXTINF:-1,UK: ITV 3
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5881
-#EXTINF:-1,UK: ITV 4
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5880
-#EXTINF:-1,UK: ITV BE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5771
-#EXTINF:-1,UK: ITV ENCORE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5870
-#EXTINF:-1,UK: KEEP IT COUNTRY
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5794
-#EXTINF:-1,UK: KERRANG!
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5786
-#EXTINF:-1,UK: KiSS UK
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5792
-#EXTINF:-1,UK: LIFETIME
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5863
-#EXTINF:-1,UK: FREE SPORTS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5793
-#EXTINF:-1,UK: MORE4
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5877
-#EXTINF:-1,UK: MOTORS TV
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5746
-#EXTINF:-1,UK: MOViES24
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5825
-#EXTINF:-1,UK: MOViES4Men
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5826
-#EXTINF:-1,UK: MOViES4MEN 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5827
-#EXTINF:-1,UK: MTV
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5805
-#EXTINF:-1,UK: MTV BASE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5802
-#EXTINF:-1,UK: MTV CLASSiC
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5797
-#EXTINF:-1,UK: MTV HiTS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5801
-#EXTINF:-1,UK: MTV MUSiC
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5803
-#EXTINF:-1,UK: ELEVEN SPORTS 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5800
-#EXTINF:-1,UK: MTV ROCKS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5798
-#EXTINF:-1,UK: NAT GEO WiLD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5763
-#EXTINF:-1,UK: NATiONAL GEOGRAPHiC CHANNEL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5762
-#EXTINF:-1,UK: NiCK JR
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5834
-#EXTINF:-1,UK: NiCK JR 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5831
-#EXTINF:-1,UK: NiCK JR PEPPA
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5830
-#EXTINF:-1,UK: NiCKELODEON
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5833
-#EXTINF:-1,UK: NiCKTOONS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5832
-#EXTINF:-1,UK: PICK
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5773
-#EXTINF:-1,UK: QUEST
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5774
-#EXTINF:-1,UK: REALLY
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5772
-#EXTINF:-1,UK: RTE J.R
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5873
-#EXTINF:-1,UK: RTE NEWS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5876
-#EXTINF:-1,UK: RTE ONE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5874
-#EXTINF:-1,UK: RTE TWO
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5875
-#EXTINF:-1,UK: RUSSiA TODAY NEWS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5806
-#EXTINF:-1,UK: SETANTA SPORT
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5741
-#EXTINF:-1,UK: SKY ARTS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5817
-#EXTINF:-1,UK: SKY ATLANTiC HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5859
-#EXTINF:-1,UK: SKY BOX NATION
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5739
-#EXTINF:-1,UK: SKY LiViNG
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5839
-#EXTINF:-1,UK: SKY MOViES ACTiON
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5852
-#EXTINF:-1,UK: SKY MOViES ACTiON & ADVENTURE HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5855
-#EXTINF:-1,UK: SKY MOViES COMEDY HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5850
-#EXTINF:-1,UK: SKY MOViES CRiME & THRiLLER
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5848
-#EXTINF:-1,UK: SKY MOViES DiSNEY HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5838
-#EXTINF:-1,UK: SKY MOViES DRAMA & ROMANCE.
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5849
-#EXTINF:-1,UK: SKY MOViES FAMiLY HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5851
-#EXTINF:-1,UK: SKY MOViES GREATS HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5845
-#EXTINF:-1,UK: SKY MOViES HiTS SHOWCASE HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5854
-#EXTINF:-1,UK: SKY MOViES PREMiER HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5857
-#EXTINF:-1,UK: SKY MOViES PREMiERE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5856
-#EXTINF:-1,UK: SKY MOVIES SCI-FI & HORROR
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5846
-#EXTINF:-1,UK: SKY MOViES SELECT
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5844
-#EXTINF:-1,UK: ENGLISH MOVIES (HINDI DUBBED)
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5796
-#EXTINF:-1,UK: BOX (INDIAN MOVIE SPECIAL OLD IS GOLD)
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5769
-#EXTINF:-1,UK: BOX (PUNJABI MOVIE SPECIAL)
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5784
-#EXTINF:-1,UK: BOX (INDIAN MOVIE SPECIAL NEW)
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5815
-#EXTINF:-1,UK: SKY NEWS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5777
-#EXTINF:-1,UK: SKY NEWS *
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/7343
-#EXTINF:-1,UK: SKY ONE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5861
-#EXTINF:-1,UK: SKY SELECT
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5843
-#EXTINF:-1,UK: SKY SHOWCASE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5853
-#EXTINF:-1,UK: SKY SPORTS 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5732
-#EXTINF:-1,UK: SKY SPORTS CRICKET *
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5731
-#EXTINF:-1,UK: SKY SPORTS CRICKET **
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5730
-#EXTINF:-1,UK: SKY SPORTS ACTION *
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5729
-#EXTINF:-1,UK: SKY SPORTS ACTION **
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5728
-#EXTINF:-1,UK: SKY SPORTS GOLF *
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5727
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE **
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5726
-#EXTINF:-1,UK: SKY SPORTS ACTiON
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5754
-#EXTINF:-1,UK: SKY SPORTS ARENA
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5753
-#EXTINF:-1,UK: SKY SPORTS BOX OFFICE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5747
-#EXTINF:-1,UK: SKY SPORTS CRICKET
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5752
-#EXTINF:-1,UK: SKY SPORTS F1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5720
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5742
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5751
-#EXTINF:-1,UK: SKY SPORTS GOLF
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5750
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5748
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT *
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/7303
-#EXTINF:-1,UK: SKY SPORTS MIX
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5756
-#EXTINF:-1,UK: SKY SPORTS NEWS
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5755
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5749
-#EXTINF:-1,UK: RACING UK
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5744
-#EXTINF:-1,UK: SKY MOVIES THRILLER
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5847
-#EXTINF:-1,UK: SKY TWO
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5860
-#EXTINF:-1,UK: SONY MAX
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5813
-#EXTINF:-1,UK: SONY MOViE
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5810
-#EXTINF:-1,UK: SONY SAB UK
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5811
-#EXTINF:-1,UK: SONY TV
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5812
-#EXTINF:-1,UK: STAR GOLD UK
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5814
-#EXTINF:-1,UK: STARZ TV
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5783
-#EXTINF:-1,UK: SYFY
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5867
-#EXTINF:-1,UK: TCM
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5864
-#EXTINF:-1,UK: THE VAULT
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5787
-#EXTINF:-1,UK: TLC
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5778
-#EXTINF:-1,UK: TLC-IRELAND
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5868
-#EXTINF:-1,UK: TRACE AFRiCA
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5782
-#EXTINF:-1,UK: TRAVEL
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5780
-#EXTINF:-1,UK: TRUE MOViES 1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5821
-#EXTINF:-1,UK: TRUE MOViES 2
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5820
-#EXTINF:-1,UK: VH1
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5804
-#EXTINF:-1,UK: ViCELAND
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5785
-#EXTINF:-1,UK: WATCH
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5869
-#EXTINF:-1,UK: YESTERDAY TV
-http://vip.cyprusnetserver.net:8988/SuleymanCCtv/DegisimMan2019/5779
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12147
-#EXTINF:-1,ITV Encore
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12148
-#EXTINF:-1,Aliens
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12093
-#EXTINF:-1,Alibi
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12092
-#EXTINF:-1,Yesterday
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12212
-#EXTINF:-1,TLC UK
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12206
-#EXTINF:-1,Liverpool
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12149
-#EXTINF:-1,More 4
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12151
-#EXTINF:-1,CBEEBIES
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12129
-#EXTINF:-1,CBS ACTION
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12116
-#EXTINF:-1,CBS DRAMA
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12115
-#EXTINF:-1,CBS Reality
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12114
-#EXTINF:-1,Channel 5 USA
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12117
-#EXTINF:-1,Channel 5 Star
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12118
-#EXTINF:-1,Channel 4 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12119
-#EXTINF:-1,Channel 5
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12120
-#EXTINF:-1,CNN INTER
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12122
-#EXTINF:-1,E4
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12134
-#EXTINF:-1,RTE 1
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12168
-#EXTINF:-1,RTE 2
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12169
-#EXTINF:-1,Vh1 UK
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12210
-#EXTINF:-1,Watch
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12211
-#EXTINF:-1,Disney' Channel
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12130
-#EXTINF:-1,Disney Junior'
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12131
-#EXTINF:-1,Disney' XD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12132
-#EXTINF:-1,Boomerang HD'
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12102
-#EXTINF:-1,Cartoon Network. HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12113
-#EXTINF:-1,Nick' Jr.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12162
-#EXTINF:-1,Nickel'odeon
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12161
-#EXTINF:-1,Nicktoonss
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12163
-#EXTINF:-1,Baby TV'
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12095
-#EXTINF:-1,Discovery C'hannel
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12125
-#EXTINF:-1,Discovery History
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12126
-#EXTINF:-1,Discovery Science.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12127
-#EXTINF:-1,Discovery Turbo
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12128
-#EXTINF:-1,MTV'
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12154
-#EXTINF:-1,MTV Hits
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12155
-#EXTINF:-1,MTV Music
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12156
-#EXTINF:-1,Investigation Discovery
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12142
-#EXTINF:-1,Nat Geo Channel
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12159
-#EXTINF:-1,National Geography Wild
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12160
-#EXTINF:-1,Travel Channel
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12207
-#EXTINF:-1,History' Channel
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12140
-#EXTINF:-1,Home
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12141
-#EXTINF:-1,Food Network
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12137
-#EXTINF:-1,At The Races UK
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12094
-#EXTINF:-1,Bloomberg.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12101
-#EXTINF:-1,Comedy Central'
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12123
-#EXTINF:-1,Dave.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12124
-#EXTINF:-1,Dmax
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12133
-#EXTINF:-1,Film 4
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12136
-#EXTINF:-1,FOX.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12138
-#EXTINF:-1,Gold
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12139
-#EXTINF:-1,Motor TV
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12152
-#EXTINF:-1,Movies 4 Men
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12153
-#EXTINF:-1,MUTV
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12157
-#EXTINF:-1,Pick TV
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12164
-#EXTINF:-1,Setanta Ireland
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12170
-#EXTINF:-1,SyFy UK
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12203
-#EXTINF:-1,TCL
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12158
-#EXTINF:-1,TCM UK
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12204
-#EXTINF:-1,TG4 UK
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12205
-#EXTINF:-1,True Movies
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12208
-#EXTINF:-1,True Movies 2
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12209
-#EXTINF:-1,Sky News UK
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12202
-#EXTINF:-1,Sky one HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12180
-#EXTINF:-1,Sky  Disney
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12175
-#EXTINF:-1,Sky Arts 1
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12172
-#EXTINF:-1,Sky Atlantic
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12173
-#EXTINF:-1,Sky Family
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12177
-#EXTINF:-1,Sky Cinema Premiere
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12181
-#EXTINF:-1,Sky Comedy
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12174
-#EXTINF:-1,Sky Drama
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12176
-#EXTINF:-1,sky Living
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12150
-#EXTINF:-1,Sky Movies Action & Adventure HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12171
-#EXTINF:-1,sky Movies Greats HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12178
-#EXTINF:-1,Sky Movies Select HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12183
-#EXTINF:-1,Sky Movies ShowCase
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12179
-#EXTINF:-1,Sky Scifi&horror
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12182
-#EXTINF:-1,Sky two HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12201
-#EXTINF:-1,Sky Thriller
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12200
-#EXTINF:-1,Sky Sports F1
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12195
-#EXTINF:-1,Sky Sports F1 HD UK
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12196
-#EXTINF:-1,------ USA HD ------
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/12773
-#EXTINF:-1,CNN FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53771
-#EXTINF:-1,CNN HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53770
-#EXTINF:-1,USA HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53661
-#EXTINF:-1,CBS HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53801
-#EXTINF:-1,CBS San Diego HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53800
-#EXTINF:-1,CBSN FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53799
-#EXTINF:-1,CBSN HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53798
-#EXTINF:-1,ABC News FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53816
-#EXTINF:-1,ABC News HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53815
-#EXTINF:-1,AFN Prime FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53814
-#EXTINF:-1,AFN Prime HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53813
-#EXTINF:-1,AFN Sports HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53812
-#EXTINF:-1,Animal Planet  HD,
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53810
-#EXTINF:-1,Bloomberg
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53807
-#EXTINF:-1,Bloomberg  HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53806
-#EXTINF:-1,Boomerang FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53805
-#EXTINF:-1,Boomerang  HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53804
-#EXTINF:-1,Disney Channel HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53763
-#EXTINF:-1,Disney XD HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53762
-#EXTINF:-1,Cartoon Network  HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53802
-#EXTINF:-1,Science HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53699
-#EXTINF:-1,A&E HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53817
-#EXTINF:-1,Discovery Channel CA
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53766
-#EXTINF:-1,Discovery Channel HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53765
-#EXTINF:-1,Discovery Velocity HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53764
-#EXTINF:-1,E! Entertainment FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53760
-#EXTINF:-1,E! Entertainment HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53759
-#EXTINF:-1,Food Network HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53749
-#EXTINF:-1,Nat Geo Wild  HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53712
-#EXTINF:-1,Nat Geographic  HD,
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53711
-#EXTINF:-1,AMC HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53811
-#EXTINF:-1,BET  HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53808
-#EXTINF:-1,Bravo HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53803
-#EXTINF:-1,Comedy Central HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53769
-#EXTINF:-1,CW FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53768
-#EXTINF:-1,CW HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53767
-#EXTINF:-1,DIY Network HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53761
-#EXTINF:-1,El Rey Network HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53758
-#EXTINF:-1,Family HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53750
-#EXTINF:-1,Free Form HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53733
-#EXTINF:-1,FX
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53732
-#EXTINF:-1,FX HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53731
-#EXTINF:-1,GRIT HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53730
-#EXTINF:-1,GSN HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53729
-#EXTINF:-1,Hallmark Channel HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53728
-#EXTINF:-1,HBO 2 FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53727
-#EXTINF:-1,HBO 2 West FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53726
-#EXTINF:-1,HBO Family HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53725
-#EXTINF:-1,HBO Plus West FH
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53724
-#EXTINF:-1,HBO Signature FHD:
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53723
-#EXTINF:-1,HBO Signature  HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53722
-#EXTINF:-1,HGTV HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53721
-#EXTINF:-1,History HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53720
-#EXTINF:-1,IndiePlex FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53719
-#EXTINF:-1,Investigation Discovery HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53718
-#EXTINF:-1,Lifetime HD,
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53717
-#EXTINF:-1,MLB Network HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53716
-#EXTINF:-1,Oprah Winfrey Network HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53703
-#EXTINF:-1,OuterMax FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53702
-#EXTINF:-1,Reelz HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53701
-#EXTINF:-1,RetroPlex FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53700
-#EXTINF:-1,Spike TV HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53694
-#EXTINF:-1,StarMax HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53691
-#EXTINF:-1,SUNDANCE FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53665
-#EXTINF:-1,SyFy HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53664
-#EXTINF:-1,bein Sport US HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53809
-#EXTINF:-1,WWE HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53660
-#EXTINF:-1,UFC Fight Pass
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53662
-#EXTINF:-1,ESPN 1
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53757
-#EXTINF:-1,ESPN 1 FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53756
-#EXTINF:-1,ESPN 1 HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53755
-#EXTINF:-1,ESPN  2.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53754
-#EXTINF:-1,ESPN 2 FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53753
-#EXTINF:-1,ESPN 2 HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53752
-#EXTINF:-1,ESPN U HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53751
-#EXTINF:-1,Sportsnet 360 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53693
-#EXTINF:-1,Sportsnet East HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53692
-#EXTINF:-1,Fox Sports 1 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53742
-#EXTINF:-1,Fox Sports 2 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53741
-#EXTINF:-1,Fox Sports Carolina HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53740
-#EXTINF:-1,Fox Sports Cincinnati HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53739
-#EXTINF:-1,Fox Sports Detroit HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53738
-#EXTINF:-1,Fox Sports Florida HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53737
-#EXTINF:-1,Fox Sports Plus FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53736
-#EXTINF:-1,Fox Sports Plus HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53735
-#EXTINF:-1,Fox Sports South HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53734
-#EXTINF:-1,T.N.T FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53663
-#EXTINF:-1,MoreMax FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53715
-#EXTINF:-1,MovieMax FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53714
-#EXTINF:-1,MoviePlex FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53713
-#EXTINF:-1,NBC Golf HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53710
-#EXTINF:-1,NBC News HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53709
-#EXTINF:-1,NBC San Diego HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53708
-#EXTINF:-1,NBCSN HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53707
-#EXTINF:-1,NFL Network HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53706
-#EXTINF:-1,NFL Now HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53705
-#EXTINF:-1,NHL Network HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53704
-#EXTINF:-1,Cinemax Action 2 FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53777
-#EXTINF:-1,Cinemax Action East FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53776
-#EXTINF:-1,Cinemax Action HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53775
-#EXTINF:-1,Cinemax East FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53774
-#EXTINF:-1,Cinemax More HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53773
-#EXTINF:-1,Cinemax West FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53772
-#EXTINF:-1,Showtime 2 HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53698
-#EXTINF:-1,Showtime East  HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53697
-#EXTINF:-1,Showtime Showcase HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53696
-#EXTINF:-1,Showtime West FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53695
-#EXTINF:-1,FOX 4 FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53748
-#EXTINF:-1,FOX 43
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53747
-#EXTINF:-1,Fox Deportes HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53746
-#EXTINF:-1,Fox HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53745
-#EXTINF:-1,FOX San Diego HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53744
-#EXTINF:-1,Fox Soccer Plus HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53743
-#EXTINF:-1,Starz Black FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53690
-#EXTINF:-1,Starz Cinema East.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53689
-#EXTINF:-1,Starz Cinema FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53688
-#EXTINF:-1,Starz Cinema West FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53687
-#EXTINF:-1,Starz Comedy FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53686
-#EXTINF:-1,Starz East FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53685
-#EXTINF:-1,Starz  Edge FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53684
-#EXTINF:-1,Starz  Edge HD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53683
-#EXTINF:-1,Starz Edge West FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53682
-#EXTINF:-1,Starz Encore 2 East FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53681
-#EXTINF:-1,Starz Encore Action FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53680
-#EXTINF:-1,Starz Encore Black FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53679
-#EXTINF:-1,Starz Encore Classic FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53678
-#EXTINF:-1,Starz Encore East FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53677
-#EXTINF:-1,Starz Encore Family FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53676
-#EXTINF:-1,Starz Encore FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53675
-#EXTINF:-1,Starz Encore HD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53674
-#EXTINF:-1,Starz Encore Suspense FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53673
-#EXTINF:-1,Starz Encore West FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53672
-#EXTINF:-1,Starz  Encore Western FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53671
-#EXTINF:-1,Starz  Family FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53670
-#EXTINF:-1,Starz FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53669
-#EXTINF:-1,Starz Kids &  Family FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53668
-#EXTINF:-1,Starz West FHD.
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53667
-#EXTINF:-1,Staz West FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53666
-#EXTINF:-1,Cinema 01 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53797
-#EXTINF:-1,Cinema 02 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53796
-#EXTINF:-1,Cinema 03 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53795
-#EXTINF:-1,Cinema 04 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53794
-#EXTINF:-1,Cinema 05 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53793
-#EXTINF:-1,Cinema 06 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53792
-#EXTINF:-1,Cinema 07 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53791
-#EXTINF:-1,Cinema 08 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53790
-#EXTINF:-1,Cinema 09 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53789
-#EXTINF:-1,Cinema 10 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53788
-#EXTINF:-1,Cinema 11 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53787
-#EXTINF:-1,Cinema 12 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53786
-#EXTINF:-1,Cinema 13 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53785
-#EXTINF:-1,Cinema 14 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53784
-#EXTINF:-1,Cinema 15 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53783
-#EXTINF:-1,Cinema 16 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53782
-#EXTINF:-1,Cinema 17 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53781
-#EXTINF:-1,Cinema 18 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53780
-#EXTINF:-1,Cinema 19 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53779
-#EXTINF:-1,Cinema 20 PPV FHD
-http://predator-ott.com:8000/WvFXExGMq4/oNanKPmO4u/53778
+#EXTINF:-1,USA: WGN AMERICA HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48719
+#EXTINF:-1,USA: NBC 4 NY HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49986
+#EXTINF:-1,USA: PBS KIDS EAST
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49987
+#EXTINF:-1,USA: TCM
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49988
+#EXTINF:-1,USA: NRJ Hits
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49556
+#EXTINF:-1,USA: CBC Frederiction HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49686
+#EXTINF:-1,USA: A & E
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49978
+#EXTINF:-1,USA: HSN
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49977
+#EXTINF:-1,USA: STARZ KIDS & FAMILY UHD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48722
+#EXTINF:-1,USA: BIG TEN NETWORK (BTN) | HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48737
+#EXTINF:-1,USA: 5 STARMAX HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48729
+#EXTINF:-1,USA: CINEMAX HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48731
+#EXTINF:-1,USA: CINEMAX MOREMAX UHD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48730
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48732
+#EXTINF:-1,USA: GAME SHOW NETWORK (GSN) | HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48738
+#EXTINF:-1,USA: NHL NETWORK
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48735
+#EXTINF:-1,USA: PBS (East)  HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48733
+#EXTINF:-1,USA: SHOWTIME EXTREME UHD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48728
+#EXTINF:-1,USA: TENNIS CHANNEL HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48734
+#EXTINF:-1,USA: COZI TV HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48723
+#EXTINF:-1,USA: FXX Network HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48725
+#EXTINF:-1,USA: OWN Network HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48724
+#EXTINF:-1,USA: DIY Network HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46567
+#EXTINF:-1,USA: C SPAN 2
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46099
+#EXTINF:-1,USA: Syfy HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39176
+#EXTINF:-1,USA: Cmt HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39143
+#EXTINF:-1,USA: Food Network HD (1080)
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46531
+#EXTINF:-1,USA: FXM
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46443
+#EXTINF:-1,USA: MAV TV SD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46103
+#EXTINF:-1,USA: AMC
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39150
+#EXTINF:-1,USA: Starz Edge
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46348
+#EXTINF:-1,USA: YANGA
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46347
+#EXTINF:-1,USA: AFN PRIME PACIFIC
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46442
+#EXTINF:-1,USA: FOX News HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46808
+#EXTINF:-1,USA: KNTV
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/47330
+#EXTINF:-1,USA: WXXV25
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46357
+#EXTINF:-1,USA: CP24 News HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46346
+#EXTINF:-1,USA: FOX 23 NEWS
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46543
+#EXTINF:-1,USA:  CBSN
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/42219
+#EXTINF:-1,USA: FX HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48620
+#EXTINF:-1,USA: ABC
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/38279
+#EXTINF:-1,USA: Country Network
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/38275
+#EXTINF:-1,USA: Starz HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46242
+#EXTINF:-1,USA: Crime and Investigation
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46838
+#EXTINF:-1,USA: Discovery Channel HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39121
+#EXTINF:-1,USA: CW HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46566
+#EXTINF:-1,USA: ID HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/41656
+#EXTINF:-1,USA: History HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/45435
+#EXTINF:-1,USA:  LIFETIME TV
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39165
+#EXTINF:-1,USA: Animal Planet HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39149
+#EXTINF:-1,USA: Blaze
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/42224
+#EXTINF:-1,USA: Cartoon Network HD.
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/38271
+#EXTINF:-1,USA: Disney XD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/38930
+#EXTINF:-1,USA: Nick Jr
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/38928
+#EXTINF:-1,USA: NICK HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46568
+#EXTINF:-1,USA: Espn U
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46345
+#EXTINF:-1,USA: Sportsnet 360 HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46836
+#EXTINF:-1,USA: Sportsnet NY
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/38668
+#EXTINF:-1,USA: Supersport Golf HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46332
+#EXTINF:-1,USA: WWE HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/42703
+#EXTINF:-1,USA: WWE BK
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46441
+#EXTINF:-1,USA: Fight Network
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/42695
+#EXTINF:-1,USA: Fox 5
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46356
+#EXTINF:-1,USA: Bloomberg News
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/47663
+#EXTINF:-1,USA: HBO
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39161
+#EXTINF:-1,USA: HBO Comedy
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/47649
+#EXTINF:-1,USA: RT News
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49275
+#EXTINF:-1,USA: Astro Supersport 2
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46810
+#EXTINF:-1,USA: NFL NOW HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39188
+#EXTINF:-1,USA: NBC 4 HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39136
+#EXTINF:-1,USA: Willow Cricket HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46499
+#EXTINF:-1,USA: PAC 12 Arizona HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/47933
+#EXTINF:-1,USA: CBS NY HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39146
+#EXTINF:-1,USA: Espn News HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/42474
+#EXTINF:-1,USA: Espn HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39141
+#EXTINF:-1,USA: Espn 2 HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39182
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/42223
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/42717
+#EXTINF:-1,USA: Cinema Outer Max
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39144
+#EXTINF:-1,USA: Lifetime Movies HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48648
+#EXTINF:-1,USA: Hallmark Movies & Mysteries HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46435
+#EXTINF:-1,USA: Cinema+ 1
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46410
+#EXTINF:-1,USA: Cinema+ 2
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/46112
+#EXTINF:-1,USA: Cinemax 5 Starmax
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/47648
+#EXTINF:-1,USA: Hallmark Drama HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/47650
+#EXTINF:-1,USA: NASA TV HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/47654
+#EXTINF:-1,USA: KIDS Reading TV
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/47779
+#EXTINF:-1,USA: NBA TV
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48229
+#EXTINF:-1,USA: Comedy Central HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48686
+#EXTINF:-1,USA: History
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48685
+#EXTINF:-1,USA: Starz tv east west
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48683
+#EXTINF:-1,USA: SYFY
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/48687
+#EXTINF:-1,USA: HEROS & ICONS
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49207
+#EXTINF:-1,USA: ION TV
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49202
+#EXTINF:-1,USA: TNT HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49203
+#EXTINF:-1,USA: UNIVISION
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49205
+#EXTINF:-1,USA: CINEMAX ACTION MAX EAST
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49208
+#EXTINF:-1,USA: HBO COMEDY HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49216
+#EXTINF:-1,USA: American Heroes Channel
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49243
+#EXTINF:-1,USA: RT America
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49242
+#EXTINF:-1,USA: CBS Sports Network HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49247
+#EXTINF:-1,USA: NBC Sports Network HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49687
+#EXTINF:-1,USA: TRU TV
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49989
+#EXTINF:-1,USA: WE TV
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/49990
+#EXTINF:-1,USA: CBS (East) HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51321
+#EXTINF:-1,USA: Cinemax East
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51323
+#EXTINF:-1,USA: Cooking Channel HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51325
+#EXTINF:-1,USA: CW 11 HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51324
+#EXTINF:-1,USA: Hallmark Moives Mysteries
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51322
+#EXTINF:-1,USA: HSN YT LIVE HD
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51319
+#EXTINF:-1,USA: The Blaze
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51320
+#EXTINF:-1,Flow sports
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51646
+#EXTINF:-1,Flow Sports 1
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/51647
+#EXTINF:-1,USA: TSN 1 (3pm kick offs)
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/42966
+#EXTINF:-1,USA: TSN 2 HD (3pm kick offs)
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39178
+#EXTINF:-1,USA: TSN 3 HD (3pm kick offs)
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39179
+#EXTINF:-1,USA: TSN 4 HD (3pm kick offs)
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39180
+#EXTINF:-1,USA: TSN 5 HD (3pm kick offs)
+http://akrestream.ddns.net:8000/mJrD4prWWj/4ctLxzt3fu/39181
